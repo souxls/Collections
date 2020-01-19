@@ -168,7 +168,8 @@
 * [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等
 * [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system.
 * [sensu-go](https://github.com/sensu/sensu-go) - Open source monitoring tool for ephemeral infrastructure & distributed applications.
-* [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+* [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.、
+* [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework http://bosun.org.
 
 ## 机器学习
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
