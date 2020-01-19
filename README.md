@@ -1,5 +1,4 @@
 # Collections
-*Github 收藏项目整理*
 
 [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
 
@@ -14,7 +13,7 @@
 - [数据库](#数据库)
 - [Dokcer](#Docker)
 - [DevOps](#DevOps)
-- [机器学习](#机器学习)
+- [大数据](#大数据)
 - [监控](#监控)
 - [微服务](#微服务)
 - [安全](#安全)
@@ -42,7 +41,6 @@
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python https://www.sqlalchemy.org.
 * [flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
-* [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 * [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ### Go
@@ -171,7 +169,7 @@
 * [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.、
 * [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework http://bosun.org.
 
-## 机器学习
+## 大数据
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 * [keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -181,6 +179,7 @@
 * [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著.
 * [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 ## 微服务
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
