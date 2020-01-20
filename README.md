@@ -100,8 +100,9 @@
 * [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
 * [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充.
 * [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) web 开发路线图
+* [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护 https://migration.ink.
 
-### Linux
+## Linux
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
 * [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution.
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. 
@@ -133,6 +134,7 @@
 * [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox.
 * [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) Cloud Native slides and materials share.
+* [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 
 ## DevOps
 * [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources.
@@ -211,6 +213,7 @@
 * [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么.
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架.
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - 📚 免费的计算机编程类中文书籍，欢迎投稿.
+* [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等.
 
 ## 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
