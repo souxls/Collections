@@ -46,8 +46,9 @@ List of my interests.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 * [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 * [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library) 
+* [Selenium ](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers. 
 * [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
-* [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册 
+* [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 
 ### Go
 * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
@@ -69,7 +70,7 @@ List of my interests.
 * [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing. 
 * [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go 
 * [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide 
-* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr 
+* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~
 
 ### Java
 * [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习.
@@ -115,6 +116,7 @@ List of my interests.
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
 * [Mendix](https://www.mendix.com/) - Mendix is a low-code software platform. It provides tools to build, test, deploy and iterate applications. 
 * [powerapps](https://azure.microsoft.com/en-us/products/powerapps/) - Microsoft Power Apps on Azure
+* [awesome-low-code](https://github.com/steedos/awesome-low-code) 
 
 ### App
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -325,6 +327,5 @@ List of my interests.
 * [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react.
 * [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web.
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here) 
-* [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流 
 * [SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》
 * [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
