@@ -229,6 +229,7 @@ List of my interests.
 * [sensu-go](https://github.com/sensu/sensu-go) - Open source monitoring tool for ephemeral infrastructure & distributed applications.
 * [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.、
 * [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework http://bosun.org.
+* [prometheus](https://github.com/prometheus/prometheus) - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
 
 ### 大数据
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
