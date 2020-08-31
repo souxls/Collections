@@ -11,7 +11,6 @@ List of my interests.
     - [前端](#前端)
     - [LowCode](#lowcode)
     - [App](#app)
-    - [开发相关](#开发相关)
     - [Linux](#linux)
     - [数据库](#数据库)
     - [Docker](#docker)
@@ -21,6 +20,7 @@ List of my interests.
     - [微服务](#微服务)
     - [安全](#安全)
     - [逆向相关](#逆向相关)
+    - [开发相关](#开发相关)
     - [资料](#资料)
     - [面试](#面试)
     - [其它](#其它)
@@ -49,6 +49,7 @@ List of my interests.
 * [Selenium ](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers. 
 * [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
 * [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
+* [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
 
 ### Go
 * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
@@ -70,7 +71,7 @@ List of my interests.
 * [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing. 
 * [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go 
 * [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide 
-* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~
+* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
 
 ### Java
 * [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习.
@@ -110,6 +111,8 @@ List of my interests.
 * [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
 * [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google 
+* [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. 
+* [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 一个基于vue-cli4,vue-composition-api,ant-design-vue,typescript，vue hooks实现的后台管理系统，后续可以兼容vue3版本 
 
 ### LowCode
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台
@@ -122,30 +125,7 @@ List of my interests.
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack. 
 * [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron 
-
-### 开发相关
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-* [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-* [miaosha](https://github.com/qiurunze123/miaosha) = ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
-* [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱.
-* [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository.
-* [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
-* [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充.
-* [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) web 开发路线图
-* [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护 https://migration.ink.
-* [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020 
-* [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
-* [Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps) - 四步从零到精通算法和数据结构🦶 Learn Algorithms and Data Structure in Four Steps 🦶
-* [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
-* [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-* [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. 
-* [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more. 
  
-
 ### Linux
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
 * [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution.
@@ -168,6 +148,7 @@ List of my interests.
 * [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process 
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling 
 * [upx](https://github.com/upx/upx) - UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
+* [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization 
 
 ### 数据库
 * [undrop-for-innodb](https://github.com/chhabhaiya/undrop-for-innodb) - TwinDB data recovery toolkit for MySQL/InnoDB.
@@ -269,6 +250,7 @@ List of my interests.
 * [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy 
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets 
 * [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. 
+* [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles 
 
 ### 逆向相关
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
@@ -284,12 +266,33 @@ List of my interests.
 * [go_parser](https://github.com/0xjiayu/go_parser) - Yet Another Golang binary parser for IDAPro 
 * [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault 
 
+### 开发相关
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+* [miaosha](https://github.com/qiurunze123/miaosha) = ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱.
+* [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository.
+* [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines.
+* [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充.
+* [developer-roadmap-chinese](https://github.com/goodjack/developer-roadmap-chinese) web 开发路线图
+* [migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护 https://migration.ink.
+* [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates.
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020 
+* [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
+* [Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps) - 四步从零到精通算法和数据结构🦶 Learn Algorithms and Data Structure in Four Steps 🦶
+* [design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
+* [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+* [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view. 
+* [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more. 
+
 ### 资料
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
-* [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（提前祝贺大家春节快乐，春运一路畅通！）
+* [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果）
 * [english-words](https://github.com/dwyl/english-words) - 📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.
 * [BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南 ⭐️
-* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）.
 * [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation https://google.github.io/eng-practices/
 * [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么.
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架.
@@ -298,7 +301,6 @@ List of my interests.
 * [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) 
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books.
 * [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers. 
-* [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 * [CS-Books](https://github.com/huihut/CS-Books) - 📚 Computer Science Books 计算机技术类书籍 PDF 
 
 ### 面试
@@ -311,6 +313,10 @@ List of my interests.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [interviews](https://github.com/kdn251/interviews) - 面试
 * [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 
+* [leetcode](https://github.com/azl397985856/leetcode) - leetcode题解
+* [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）.
+* [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 
 ### 其它
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
