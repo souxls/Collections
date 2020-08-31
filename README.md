@@ -18,7 +18,6 @@ List of my interests.
     - [DevOps](#devops)
     - [监控](#监控)
     - [大数据](#大数据)
-    - [机器学习](#机器学习)
     - [微服务](#微服务)
     - [安全](#安全)
     - [逆向相关](#逆向相关)
@@ -47,7 +46,7 @@ List of my interests.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 * [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 * [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library) 
-* [frida](https://github.com/frida/frida) - Clone this repo to build Frida
+* [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
 * [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册 
 
 ### Go
@@ -227,7 +226,7 @@ List of my interests.
 * [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等
 * [zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system.
 * [sensu-go](https://github.com/sensu/sensu-go) - Open source monitoring tool for ephemeral infrastructure & distributed applications.
-* [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.、
+* [loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 * [bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework http://bosun.org.
 * [prometheus](https://github.com/prometheus/prometheus) - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
 
@@ -242,8 +241,6 @@ List of my interests.
 * [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)" book code repository and info resource.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-
-### 机器学习
 * [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai 
 * [oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
