@@ -50,6 +50,7 @@ List of my interests.
 * [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
 * [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 * [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. 
+* 
 
 ### Go
 * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
@@ -72,6 +73,7 @@ List of my interests.
 * [opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go 
 * [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide 
 * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
+* [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版
 
 ### Java
 * [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习.
@@ -80,6 +82,7 @@ List of my interests.
 * [dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 * [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) - Distributed database middleware.
 * [CodeGuide](https://github.com/fuzhengwei/CodeGuide) - 📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容
+* [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
@@ -160,7 +163,9 @@ List of my interests.
 * [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 * [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - The best looking and easiest to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. 
 * [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql 
-* [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 
+* [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+* [awesome-mysql] (https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources 
+* [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - MySQL 资源大全中文版
 
 ### Docker
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects.
@@ -197,6 +202,7 @@ List of my interests.
 * [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform.
 * [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 * [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps 
+* [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
