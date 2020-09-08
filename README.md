@@ -118,6 +118,15 @@ List of my interests.
 * [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. 
 * [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 一个基于vue-cli4,vue-composition-api,ant-design-vue,typescript，vue hooks实现的后台管理系统，后续可以兼容vue3版本 
 
+### Android
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries 
+* [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统
+* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps 
+* [android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development 
+* [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks 
+* [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects
+* [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries 
+
 ### LowCode
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
@@ -235,6 +244,7 @@ List of my interests.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai 
 * [oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
 * [datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning 
+* [topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics 
 
 ### 微服务
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -273,6 +283,7 @@ List of my interests.
 * [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration 
 * [go_parser](https://github.com/0xjiayu/go_parser) - Yet Another Golang binary parser for IDAPro 
 * [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault 
+* [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is a open source anti-rookit(ARK) tool on Windows. 
 
 ### 开发相关
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
