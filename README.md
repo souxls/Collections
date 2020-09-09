@@ -36,7 +36,7 @@ List of my interests.
 * [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 * [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 * [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
-* [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+* [flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs 
 * [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A Swagger spec extractor for flask-restful.
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python https://www.sqlalchemy.org.
 * [flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
