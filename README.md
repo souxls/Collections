@@ -54,6 +54,7 @@ List of my interests.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 
 ### Python
+* [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 * [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production https://fastapi.tiangolo.com/.
 * [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth and OpenID Connect servers. JWS,JWE,JWK,JWA,JWT included.
 * [sh](https://github.com/amoffat/sh) - Python process launching.
@@ -62,7 +63,7 @@ List of my interests.
 * [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 * [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 * [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
-* [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+* [flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs 
 * [flask-restful-swagger](https://github.com/rantav/flask-restful-swagger) - A Swagger spec extractor for flask-restful.
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python https://www.sqlalchemy.org.
 * [flask-login](https://github.com/maxcountryman/flask-login) - Flask user session management.
@@ -71,7 +72,6 @@ List of my interests.
 * [tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 * [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
-
 * [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library) 
 * [Selenium ](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers. 
 * [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
@@ -230,6 +230,7 @@ List of my interests.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai 
 * [oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
 * [datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning 
+* [topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics 
 
 ### 微服务
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
@@ -273,6 +274,7 @@ List of my interests.
 * [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration 
 * [go_parser](https://github.com/0xjiayu/go_parser) - Yet Another Golang binary parser for IDAPro 
 * [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault 
+* [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is a open source anti-rookit(ARK) tool on Windows. 
 
 ### 开发相关
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
