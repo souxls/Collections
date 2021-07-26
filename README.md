@@ -50,8 +50,13 @@ List of my interests.
 * [awesome-element](https://github.com/ElementUI/awesome-element) - A curated list of Element projects.
 * [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版
 * [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版
- * [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+* [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+* [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+* [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects, More powerful web
+* [AndroidLibs](https://github.com/XXApple/AndroidLibs) - 🔥正在成为史上最全分类 Android 开源大全
+* [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) - 平常看到好的渗透hacking工具和多领域效率工具的集合
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -73,10 +78,14 @@ List of my interests.
 * [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 * [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 * [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library) 
-* [Selenium ](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers. 
+* [Selenium](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers. 
 * [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. 
+* [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+* [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python 
+* [dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more! 
 
 ### Go
+* [go](https://github.com/golang/go) - The Go programming language
 * [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 * [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -94,16 +103,25 @@ List of my interests.
 * [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. 
 * [ultimate-go](https://github.com/hoanhan101/ultimate-go) - Ultimate Go Study Guide 
 * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能
+* [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. 
+* [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+* [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time 
+* [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) 
+* [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform 
+* [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. 
 
 ### Java
+* [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
 * [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 * [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas.
 * [dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 * [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) - Distributed database middleware.
+* [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
+* [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
+
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
-* [laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
 
 ### 前端
 * [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -129,7 +147,10 @@ List of my interests.
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
 * [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google 
 * [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. 
-* [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 一个基于vue-cli4,vue-composition-api,ant-design-vue,typescript，vue hooks实现的后台管理系统，后续可以兼容vue3版本 
+* [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 一个基于vue-cli4,vue-composition-api,ant-design-vue,typescript，vue hooks实现的后台管理系统，后续可以兼容vue3版本
+* [laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
+* [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries 
+* [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
 
 ### APP
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -137,6 +158,9 @@ List of my interests.
 * [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps.
 * [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps 
 * [XUI](https://github.com/xuexiangjys/XUI) - 💍一个简洁而优雅的Android原生UI框架，解放你的双手！
+* [flutter-development-roadmap](https://github.com/Tarikul711/flutter-development-roadmap) - Flutter App Developer Roadmap - A complete roadmap to learn Flutter App Development. I tried to learn flutter using this roadmap. If you want to add something please contribute to the project. Happy Learning 
+* [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
+* 
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
@@ -165,6 +189,8 @@ List of my interests.
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling 
 * [upx](https://github.com/upx/upx) - UPX is an advanced executable file compressor. UPX will typically reduce the file size of programs and DLLs by around 50%-70%, thus reducing disk space, network load times, download times and other distribution and storage costs.
 * [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization 
+* [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system. 
+* [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ### 数据库
 * [undrop-for-innodb](https://github.com/chhabhaiya/undrop-for-innodb) - TwinDB data recovery toolkit for MySQL/InnoDB.
@@ -176,6 +202,8 @@ List of my interests.
 * [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - The best looking and easiest to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. 
 * [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql 
 * [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+* [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+* [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
 ### Docker
 * [runtime](https://github.com/kata-containers/runtime) - Kata Containers runtime.
@@ -185,6 +213,9 @@ List of my interests.
 * [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 * [oam-go-sdk](https://github.com/oam-dev/oam-go-sdk) - Simplify building OAM runtime 
 * [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers. 
+* [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems 
+* [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+* [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security 
 
 ### DevOps
 * [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine.
@@ -202,6 +233,8 @@ List of my interests.
 * [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform.
 * [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps 
 * [waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform. 
+* [metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
+* [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python 
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
@@ -230,13 +263,16 @@ List of my interests.
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai 
 * [oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework. 
 * [datasets](https://github.com/unsplash/datasets) - 🎁 2,000,000+ Unsplash images made available for research and machine learning 
-* [topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics 
+* [topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
+* [xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.
 
 ### 微服务
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 * [openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform.
 * [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 * [Kong](https://github.com/Kon) - Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway or API Middleware). Made available as an open-source project in 2015, its core values are high performance and extensibility.
+* [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. 
+* [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -260,6 +296,12 @@ List of my interests.
 * [grapl](https://github.com/grapl-security/grapl) - Graph platform for Detection and Response 
 * [go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros 
 * [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. 
+* [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows. 
+* [proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool) 
+* [Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计) 
+* [ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 
+* [tuf](https://github.com/theupdateframework/tuf) - A framework for securing software update systems
+
 
 ### 逆向相关
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
@@ -330,6 +372,12 @@ List of my interests.
 * [magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 * [learn-python](https://github.com/trekhleb/learn-python) -  Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 * [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+* [android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development 
+* [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks 
+* [os](https://github.com/doctording/os) - 《操作系统真相还原》笔记 
+* [linux-0.12](https://github.com/ultraji/linux-0.12) - 《Linux内核完全剖析》linux0.12源码及实验环境
+* [tiny_ml](https://github.com/fengyang95/tiny_ml) - numpy 实现的 周志华《机器学习》书中的算法及其他一些传统机器学习算法
+* [open-shell-book](https://github.com/tinyclub/open-shell-book) - 开源书籍：《Shell 编程范例》，面向操作对象学 Shell！
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
@@ -346,6 +394,8 @@ List of my interests.
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）.
 * [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 * [awesome-job](https://github.com/Dikea/awesome-job) - 互联网面试找工作，面经与内推，涵盖：Java C++ Python Go ML NLP CV Data
+* [leetcode_company_wise_questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions) - This is a repository containing the list of company wise questions available on leetcode premium
+* [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers 
 
 ### 其它
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -364,3 +414,4 @@ List of my interests.
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here) 
 * [SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》
 * [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
+* [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南 
