@@ -562,3 +562,4 @@ List of my interests.
  * [orchest](https://github.com/orchest/orchest) - A new kind of IDE for Data Science. 
  * [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. 
  * [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+ * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :octocat: 分享 GitHub 上有趣、入门级的开源项目
