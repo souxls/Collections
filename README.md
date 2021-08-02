@@ -426,6 +426,7 @@ List of my interests.
 * [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more. 
 * [DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) - A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design pattern… 
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) - 文档主要目的是为大家在设计接口时提供建议，给大家参考 HTTP 或者其他协议/指南已经设计过的内容
+* [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects 
 
 ### 逆向相关
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
