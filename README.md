@@ -62,6 +62,7 @@ List of my interests.
 * [awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally.
 * [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples 
+* [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
