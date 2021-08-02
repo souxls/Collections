@@ -208,7 +208,7 @@ List of my interests.
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) - Open-Source Android Apps
 * [XUI](https://github.com/xuexiangjys/XUI) - 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！) 
 * [Shelter](https://github.com/PeterCxy/Shelter) - Shelter is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
-* 
+* [rubick](https://github.com/clouDr-f2e/rubick) - 🔧 媲美utools的开源工具箱，自由集成丰富插件，utools生态插件可无差异化使用。
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
