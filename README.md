@@ -247,6 +247,7 @@ List of my interests.
 * [memclient](https://github.com/jorisroovers/memclient) - Simple memcached commandline client written in Go 
 * [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter 
 * [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+* [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQ
 
 ### 云原生应用
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -309,6 +310,7 @@ List of my interests.
 * [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code 
 * [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
 * [rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台 
+* [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。 
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
