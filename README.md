@@ -381,6 +381,7 @@ List of my interests.
 * [dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 * [breakpad](https://github.com/google/breakpad) - Breakpad is a set of client and server components which implement a crash-reporting system
 * [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -532,6 +533,7 @@ List of my interests.
 * [Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 
 * [google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF). 
 * [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集 
+* [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
