@@ -209,6 +209,7 @@ List of my interests.
 * [XUI](https://github.com/xuexiangjys/XUI) - 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！) 
 * [Shelter](https://github.com/PeterCxy/Shelter) - Shelter is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
 * [rubick](https://github.com/clouDr-f2e/rubick) - 🔧 媲美utools的开源工具箱，自由集成丰富插件，utools生态插件可无差异化使用。
+* [lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser) 
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
@@ -288,6 +289,7 @@ List of my interests.
 * [bk-PaaS](https://github.com/Tencent/bk-PaaS) - 蓝鲸智云PaaS平台（BlueKing PaaS） 
 * [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 * [erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes. 
+* [nocodb](https://github.com/nocodb/nocodb) -  🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
@@ -443,6 +445,7 @@ List of my interests.
 * [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 * [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more. 
 * [DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) - A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design pattern… 
+* [http-api-guide](https://github.com/bolasblack/http-api-guide) - 文档主要目的是为大家在设计接口时提供建议，给大家参考 HTTP 或者其他协议/指南已经设计过的内容
 
 ### 资料
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
