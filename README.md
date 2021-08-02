@@ -135,6 +135,7 @@ List of my interests.
 * [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0. 
 * [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang 
 * [goproxy](https://github.com/snail007/goproxy) - 🔥 Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。 
+* [dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
