@@ -542,6 +542,7 @@ List of my interests.
 * [interview-questions](https://github.com/resumejob/interview-questions) - Interview Questions for Google, Amazon, Apple, etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
 * [interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合 
 * [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon. 
+* [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 
 ### 其它
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
