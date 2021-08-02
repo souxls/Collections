@@ -144,6 +144,7 @@ List of my interests.
 * [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. 
 * [kratos](https://github.com/go-kratos/kratos) -  A Go framework for microservices. 
 * [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. 
+* [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
