@@ -241,6 +241,7 @@ List of my interests.
 * [pika](https://github.com/OpenAtomFoundation/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
 * [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis 
 * [memclient](https://github.com/jorisroovers/memclient) - Simple memcached commandline client written in Go 
+* [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter 
 
 ### 云原生应用
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
