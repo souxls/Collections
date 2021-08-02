@@ -317,6 +317,7 @@ List of my interests.
 * [prometheus](https://github.com/prometheus/prometheus) - Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
 * [LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台 
 * [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System. The next generation of Open-Falcon 
+* [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 
 ### 大数据
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
