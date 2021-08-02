@@ -125,6 +125,7 @@ List of my interests.
 * [goim](https://github.com/Terry-Mao/goim) - goim is an im server writen in golang. 
 * [progress_bar](https://github.com/ermanimer/progress_bar) - Go Progress Bar 
 * [go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目
+* [ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 * [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. 
