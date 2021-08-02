@@ -141,6 +141,7 @@ List of my interests.
 * [dtm](https://github.com/yedf/dtm) - 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器 
 * [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development 
 * [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. 
+* [kratos](https://github.com/go-kratos/kratos) -  A Go framework for microservices. 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
