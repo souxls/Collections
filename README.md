@@ -147,7 +147,8 @@ List of my interests.
 * [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 * [jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 * [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.  
-* [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU" 
+* [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
+* [guava](https://github.com/google/guava) - Guava is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well. 
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
