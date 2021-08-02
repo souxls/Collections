@@ -244,6 +244,7 @@ List of my interests.
 * [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis 
 * [memclient](https://github.com/jorisroovers/memclient) - Simple memcached commandline client written in Go 
 * [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter 
+* [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ### 云原生应用
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
