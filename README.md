@@ -206,6 +206,7 @@ List of my interests.
 * [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos 
 * [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library 
 * [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. 
+* [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 
 
 ### APP
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -529,6 +530,7 @@ List of my interests.
 * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books 
 * [Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 
 * [google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF). 
+* [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
