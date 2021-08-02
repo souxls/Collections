@@ -153,6 +153,8 @@ List of my interests.
 * [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.  
 * [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
 * [guava](https://github.com/google/guava) - Guava is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well. 
+* [PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability. 
+* [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
@@ -368,7 +370,6 @@ List of my interests.
 * [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [common-regex](https://github.com/cdoco/common-regex) - 🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
 * [ngx_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance Nginx firewall module & 方便且高性能的 Nginx 防火墙模块 
-* [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 * [dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 * [breakpad](https://github.com/google/breakpad) - Breakpad is a set of client and server components which implement a crash-reporting system
 * [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
