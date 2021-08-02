@@ -573,3 +573,4 @@ List of my interests.
  * [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. 
  * [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :octocat: 分享 GitHub 上有趣、入门级的开源项目
+ * [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. 
