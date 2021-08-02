@@ -292,6 +292,7 @@ List of my interests.
 * [erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes. 
 * [nocodb](https://github.com/nocodb/nocodb) -  🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 
 * [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code 
+* [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
