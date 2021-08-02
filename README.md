@@ -143,6 +143,7 @@ List of my interests.
 * [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development 
 * [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. 
 * [kratos](https://github.com/go-kratos/kratos) -  A Go framework for microservices. 
+* [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
