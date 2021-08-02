@@ -291,6 +291,7 @@ List of my interests.
 * [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 * [erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes. 
 * [nocodb](https://github.com/nocodb/nocodb) -  🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 
+* [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code 
 
 ### 监控
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
