@@ -513,6 +513,7 @@ List of my interests.
 * [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版 
 * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books 
 * [Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 
+* [google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF). 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
