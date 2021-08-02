@@ -273,6 +273,7 @@ List of my interests.
 * [Kong](https://github.com/Kon) - Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway or API Middleware). Made available as an open-source project in 2015, its core values are high performance and extensibility.
 * [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. 
 * [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy 
+* [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 ### DevOps
 * [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine.
