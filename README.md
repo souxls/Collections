@@ -540,6 +540,7 @@ List of my interests.
 * [google-sre-ebook](https://github.com/captn3m0/google-sre-ebook) - Google SRE Book Generator (EPUB/MOBI/PDF). 
 * [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集 
 * [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization 
+* [pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
