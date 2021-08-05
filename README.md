@@ -389,6 +389,7 @@ List of my interests.
 * [rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' 
 * [sysstat](https://github.com/sysstat/sysstat) -  Performance monitoring tools for Linux 
+* [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
