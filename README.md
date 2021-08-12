@@ -331,6 +331,7 @@ List of my interests.
 * [LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台 
 * [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System. The next generation of Open-Falcon 
 * [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
+* [alerting](https://github.com/opendistro-for-elasticsearch/alerting) - 📟 Open Distro for Elasticsearch Alerting Plugin 
 
 ### 大数据
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
