@@ -284,6 +284,7 @@ List of my interests.
 * [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 ### DevOps
+* [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine.
 * [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. 
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. 
@@ -311,9 +312,12 @@ List of my interests.
 * [vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
 * [rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台 
 * [jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。 
-* [growthbook](https://github.com/growthbook/growthbook) -  The Open Source A/B Testing Platform 
+* [growthbook](https://github.com/growthbook/growthbook) -  The Open Source A/B Testing Platform
+* [spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence. 
+* [mesos](https://github.com/apache/mesos) - Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.
 
 ### 监控
+* [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
 * [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch.
 * [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
@@ -353,6 +357,7 @@ List of my interests.
 * [fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF) 
 * [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows 
 * [kudu](https://github.com/apache/kudu) - Apache Kudu is an open source distributed data storage engine that makes fast analytics on fast and changing data easy.
+* [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
 ### 实用工具
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
