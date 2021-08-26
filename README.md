@@ -161,6 +161,7 @@ List of my interests.
 * [guava](https://github.com/google/guava) - Guava is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well. 
 * [PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability. 
 * [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+* [APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
@@ -210,6 +211,7 @@ List of my interests.
 * [spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library 
 * [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. 
 * [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 
+* [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
 ### APP
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -223,6 +225,7 @@ List of my interests.
 * [Shelter](https://github.com/PeterCxy/Shelter) - Shelter is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into.
 * [rubick](https://github.com/clouDr-f2e/rubick) - 🔧 媲美utools的开源工具箱，自由集成丰富插件，utools生态插件可无差异化使用。
 * [lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser) 
+* [QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
@@ -401,6 +404,7 @@ List of my interests.
 * [dpdk](https://github.com/DPDK/dpdk)  - Data Plane Development Kit
 * [iperf](https://github.com/esnet/iperf) - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool 
 * [netperf](https://github.com/HewlettPackard/netperf) - Netperf is a benchmark that can be used to measure the performance of many different types of networking. It provides tests for both unidirectional throughput, and end-to-end latency. 
+* [uid-generator](https://github.com/baidu/uid-generator) - UniqueID generator
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
