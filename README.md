@@ -407,6 +407,7 @@ List of my interests.
 * [netperf](https://github.com/HewlettPackard/netperf) - Netperf is a benchmark that can be used to measure the performance of many different types of networking. It provides tests for both unidirectional throughput, and end-to-end latency. 
 * [uid-generator](https://github.com/baidu/uid-generator) - UniqueID generator
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+* [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -563,6 +564,7 @@ List of my interests.
 * [LeetCode](https://github.com/yuanguangxin/LeetCode) - LeetCode刷题记录与面试整理 
 * [ibm_bak](https://github.com/labulaka521/ibm_bak) -  IBM Developer 中文网站文章备份 
 * [fio](https://github.com/axboe/fio) - Flexible I/O Tester 
+* [books-pdf](https://github.com/huyubing/books-pdf) - books pdf 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
