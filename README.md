@@ -212,6 +212,7 @@ List of my interests.
 * [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. 
 * [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 
 * [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 🛁 Clean Code concepts adapted for JavaScript 
 
 ### APP
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
