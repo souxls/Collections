@@ -468,6 +468,7 @@ List of my interests.
 * [http-api-guide](https://github.com/bolasblack/http-api-guide) - 文档主要目的是为大家在设计接口时提供建议，给大家参考 HTTP 或者其他协议/指南已经设计过的内容
 * [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects 
 * [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purpose
+* [Dapper-translation](https://github.com/bigbully/Dapper-translation) -  translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
 
 ### 逆向相关
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
