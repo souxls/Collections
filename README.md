@@ -213,6 +213,7 @@ List of my interests.
 * [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub 
 * [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 🛁 Clean Code concepts adapted for JavaScript 
+* [rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core 
 
 ### APP
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
@@ -252,7 +253,9 @@ List of my interests.
 * [memclient](https://github.com/jorisroovers/memclient) - Simple memcached commandline client written in Go 
 * [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter 
 * [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-* [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQ
+* [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
+* [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
+* [godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群 
 
 ### 云原生应用
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -363,6 +366,7 @@ List of my interests.
 * [fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows 
 * [kudu](https://github.com/apache/kudu) - Apache Kudu is an open source distributed data storage engine that makes fast analytics on fast and changing data easy.
 * [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） 
 
 ### 实用工具
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
@@ -409,6 +413,9 @@ List of my interests.
 * [uid-generator](https://github.com/baidu/uid-generator) - UniqueID generator
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 * [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser 
+* [freeotp-ios](https://github.com/freeotp/freeotp-ios) - freeotp
+* [xfs_undelete](https://github.com/ianka/xfs_undelete) - An undelete tool for the XFS filesystem. 
+* [dump_syms](https://github.com/mozilla/dump_syms) - Rewrite of breakpad dump_syms tools in Rust 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
