@@ -146,6 +146,7 @@ List of my interests.
 * [kratos](https://github.com/go-kratos/kratos) -  A Go framework for microservices. 
 * [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. 
 * [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost 
+* [go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
