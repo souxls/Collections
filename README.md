@@ -147,6 +147,7 @@ List of my interests.
 * [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. 
 * [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost 
 * [go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库 
+* [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
