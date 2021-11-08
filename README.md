@@ -329,6 +329,7 @@ List of my interests.
 * [mesos](https://github.com/apache/mesos) - Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.
 * [mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 * [wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services 
+* [nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js 
 
 ### 监控
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
