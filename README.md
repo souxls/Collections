@@ -644,3 +644,4 @@ List of my interests.
  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :octocat: 分享 GitHub 上有趣、入门级的开源项目
  * [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
  * [freenom](https://github.com/ohmyzsh/ohmyzsh) - Freenom域名自动续期。Freenom domain name renews automatically. 
+ * [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. 
