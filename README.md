@@ -294,6 +294,7 @@ List of my interests.
 * [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. 
 * [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy 
 * [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. 
 
 ### DevOps
 * [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
