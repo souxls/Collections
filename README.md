@@ -585,6 +585,7 @@ List of my interests.
 * [learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go-kit ，Go-Micro 微服务实践、Go 推送 
 * [archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 
 * [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python 
+* [pku-cs-self-learning](https://github.com/pkuflyingpig/pku-cs-self-learning/) 计算机自学指南 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
