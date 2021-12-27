@@ -96,6 +96,7 @@ List of my interests.
 * [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask. 
 * [conda](https://github.com/conda/conda) - Conda is a cross-platform, language-agnostic binary package manager. It is the package manager used by Anaconda installations, but it may be used for other systems as well. Conda makes environments first-class citizens, making it easy to create independent environments even for C libraries. Conda is written entirely in Python, and is BSD licensed open source.
 * [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience 
+* [QPT](https://github.com/QPT-Family/QPT) - 前向式Python环境快捷封装工具，快速将Python打包为EXE并添加CUDA、NoAVX等支持。 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
