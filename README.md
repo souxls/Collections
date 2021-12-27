@@ -428,6 +428,7 @@ List of my interests.
 * [freeotp-ios](https://github.com/freeotp/freeotp-ios) - freeotp
 * [xfs_undelete](https://github.com/ianka/xfs_undelete) - An undelete tool for the XFS filesystem. 
 * [dump_syms](https://github.com/mozilla/dump_syms) - Rewrite of breakpad dump_syms tools in Rust 
+* [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
