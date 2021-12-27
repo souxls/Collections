@@ -355,6 +355,7 @@ List of my interests.
 * [goalert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert
 * [alerting](https://github.com/opendistro-for-elasticsearch/alerting) - 📟 Open Distro for Elasticsearch Alerting Plugin 
 * [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting. 
+* [signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool
 
 ### 大数据
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
