@@ -333,7 +333,7 @@ List of my interests.
 * [mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 * [wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services 
 * [nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js 
-* [ngx_brotli](https://github.com/google/ngx_brotli) =  NGINX module for Brotli compression
+* [ngx_brotli](https://github.com/google/ngx_brotli) -  NGINX module for Brotli compression
 * [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.  
 
 ### 监控
@@ -431,6 +431,7 @@ List of my interests.
 * [xfs_undelete](https://github.com/ianka/xfs_undelete) - An undelete tool for the XFS filesystem. 
 * [dump_syms](https://github.com/mozilla/dump_syms) - Rewrite of breakpad dump_syms tools in Rust 
 * [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
+* [brotli](https://github.com/google/brotli) - Brotli compression format 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -469,7 +470,7 @@ List of my interests.
 ### 开发相关
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 * [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-* [miaosha](https://github.com/qiurunze123/miaosha) = ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
+* [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 * [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 * [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository.
