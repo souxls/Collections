@@ -263,6 +263,7 @@ List of my interests.
 * [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
 * [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 * [godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群 
+* [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
 
 ### 云原生应用
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
