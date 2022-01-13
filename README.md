@@ -292,6 +292,7 @@ List of my interests.
 * [kruise](https://github.com/openkruise/kruise) - Automate application management on Kubernetes (project under CNCF)
 * [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage 
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+* [knative](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 * [openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform.
 * [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple 
 * [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
