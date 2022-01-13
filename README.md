@@ -293,6 +293,7 @@ List of my interests.
 * [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage 
 * [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 * [openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform.
+* [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple 
 * [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 * [Kong](https://github.com/Kon) - Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway or API Middleware). Made available as an open-source project in 2015, its core values are high performance and extensibility.
 * [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. 
