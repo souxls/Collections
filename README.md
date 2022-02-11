@@ -451,7 +451,7 @@ List of my interests.
 * [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch 
 * [conda](https://github.com/conda/conda) - Conda is a cross-platform, language-agnostic binary package manager. It is the package manager used by Anaconda installations, but it may be used for other systems as well. Conda makes environments first-class citizens, making it easy to create independent environments even for C libraries. Conda is written entirely in Python, and is BSD licensed open source.
 * [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis 
-* [ trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes 
+* [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes 
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -637,6 +637,7 @@ List of my interests.
 * [interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合 
 * [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon. 
 * [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
+* [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 
 
 ### 其它
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
