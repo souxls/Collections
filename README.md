@@ -369,6 +369,7 @@ List of my interests.
 * [ VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database 
 * [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. 
 * [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus. 
+* [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) -  Prometheus exporter for custom eBPF metrics 
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
