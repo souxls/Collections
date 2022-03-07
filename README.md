@@ -400,6 +400,7 @@ List of my interests.
 * [kudu](https://github.com/apache/kudu) - Apache Kudu is an open source distributed data storage engine that makes fast analytics on fast and changing data easy.
 * [mesos](https://github.com/apache/mesos) - Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.
 * [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） 
+* [OpenCV](https://github.com/opencv/opencv) - OpenCV is a computer vision library. It is mainly used for computer vision and machine learning.
 
 ### 安全
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
