@@ -345,6 +345,7 @@ List of my interests.
 * [nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js 
 * [ngx_brotli](https://github.com/google/ngx_brotli) -  NGINX module for Brotli compression
 * [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.  
+* [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform 
 
 ### 监控
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
