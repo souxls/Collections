@@ -100,6 +100,7 @@ List of my interests.
 * [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask. 
 * [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience 
 * [QPT](https://github.com/QPT-Family/QPT) - 前向式Python环境快捷封装工具，快速将Python打包为EXE并添加CUDA、NoAVX等支持。
+* [Waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 2 and 3 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
