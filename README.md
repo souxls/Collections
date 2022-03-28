@@ -101,6 +101,8 @@ List of my interests.
 * [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience 
 * [QPT](https://github.com/QPT-Family/QPT) - 前向式Python环境快捷封装工具，快速将Python打包为EXE并添加CUDA、NoAVX等支持。
 * [Waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 2 and 3 
+* [talib-document](https://github.com/HuaRongSAO/talib-document) - A document for TALIB, a library for technical analysis in C.
+* [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
@@ -286,6 +288,7 @@ List of my interests.
 * [nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. 
 * [Cilium](https://github.com/cilium/cilium) -  eBPF-based Networking, Security, and Observability 
 * [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security 
+* [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
 
 ### 微服务
 * [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. 
@@ -626,6 +629,7 @@ List of my interests.
 * [db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 * [software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture. 
 * [blog](https://github.com/fengshi123/blog) - 汇总发布的前端博文，大家一起交流学习，如果有帮助到您，欢迎 star ~    
+* [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 像小说一样品读 Linux 0.11 核心代码 
 
 ### 面试
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
