@@ -544,6 +544,7 @@ List of my interests.
 * [conda](https://github.com/conda/conda) - Conda is a cross-platform, language-agnostic binary package manager. It is the package manager used by Anaconda installations, but it may be used for other systems as well. Conda makes environments first-class citizens, making it easy to create independent environments even for C libraries. Conda is written entirely in Python, and is BSD licensed open source.
 * [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis 
 * [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes 
+* [sysdig](https://github.com/draios/sysdig) - Sysdig is a tool that lets you monitor and analyze the behavior of your system. It is a collection of tools that can be used to monitor and analyze the behavior of your system.
 
 ### 资料
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
