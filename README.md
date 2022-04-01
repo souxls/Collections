@@ -674,23 +674,24 @@ List of my interests.
 * [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南 
 * [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。
- * [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
- * [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes 
- * [ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
- * [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) - 小型金融知识图谱构建流程
- * [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
- * [Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
- * [KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) - A cloud storage provider plugin for KeePass Password Safe 
- * [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE 
- * [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
- * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用 
- * [freeplane](https://github.com/freeplane/freeplane) - mind map
- * [China_House](https://github.com/beiliangshizi/China_House) - 中国买房相关资料和项目整理，方便查看，持续更新中... 
- * [orchest](https://github.com/orchest/orchest) - A new kind of IDE for Data Science. 
- * [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. 
- * [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
- * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :octocat: 分享 GitHub 上有趣、入门级的开源项目
- * [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
- * [freenom](https://github.com/ohmyzsh/ohmyzsh) - Freenom域名自动续期。Freenom domain name renews automatically. 
- * [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. 
- * [dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 
+* [lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
+* [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes 
+* [ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora - Open-Source Translation Management Platform
+* [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) - 小型金融知识图谱构建流程
+* [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸
+* [Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 
+* [KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) - A cloud storage provider plugin for KeePass Password Safe 
+* [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE 
+* [vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+* [EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用 
+* [freeplane](https://github.com/freeplane/freeplane) - mind map
+* [China_House](https://github.com/beiliangshizi/China_House) - 中国买房相关资料和项目整理，方便查看，持续更新中... 
+* [orchest](https://github.com/orchest/orchest) - A new kind of IDE for Data Science. 
+* [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. 
+* [chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+* [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) :octocat: 分享 GitHub 上有趣、入门级的开源项目
+* [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+* [freenom](https://github.com/ohmyzsh/ohmyzsh) - Freenom域名自动续期。Freenom domain name renews automatically. 
+* [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. 
+* [dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 
+* [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
