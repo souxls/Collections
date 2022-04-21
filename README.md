@@ -155,6 +155,7 @@ List of my interests.
 * [go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库 
 * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 * [elastic](https://github.com/olivere/elastic) -  Elasticsearch client for Go. 
+* [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
