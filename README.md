@@ -550,6 +550,7 @@ List of my interests.
 * [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes 
 * [sysdig](https://github.com/draios/sysdig) - Sysdig is a tool that lets you monitor and analyze the behavior of your system. It is a collection of tools that can be used to monitor and analyze the behavior of your system.
 * [q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH. 
+* [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) 
 
 ### 资料
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
