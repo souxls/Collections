@@ -442,6 +442,7 @@ List of my interests.
 * [sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码 
 * [secguide](secguide) - 面向开发人员梳理的代码安全指南
 * [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. 
+* [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility 
 
 ### 开发相关
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
