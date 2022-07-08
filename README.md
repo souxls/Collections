@@ -6,26 +6,26 @@ List of my interests.
     - [Python](#python)
     - [Go](#go)
     - [Java](#java)
-    - [前端](#前端)
+    - [Web](#web)
     - [PHP](#php)
     - [APP](#app)
-    - [数据库](#数据库)
-    - [容器](#容器)
-    - [微服务](#微服务)
+    - [Database](#database)
+    - [Container](#container)
+    - [Microservices](#microservices)
     - [Serverless](#serverless)
     - [APM](#apm)
-    - [分布式系统](#分布式系统)
+    - [Distribution System](#distribution-system)
     - [DevOps](#devops)
-    - [监控](#监控)
+    - [Monitor](#monitor)
     - [LowCode](#lowcode)
-    - [大数据](#大数据)
-    - [安全](#安全)
-    - [开发相关](#开发相关)
-    - [逆向相关](#逆向相关)
-    - [工具](#工具)
-    - [资料](#资料)
-    - [面试](#面试)
-    - [其它](#其它)
+    - [Big Data](#big-data)
+    - [Security](#security)
+    - [Development](#development)
+    - [Reverse](#reverse)
+    - [Tools](#tools)
+    - [References](#references)
+    - [Interview](#interview)
+    - [Others](#others)
 
 ### Awesome
 * [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
@@ -67,6 +67,7 @@ List of my interests.
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally.
 * [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples 
 * [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫
+* [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier 
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -103,6 +104,9 @@ List of my interests.
 * [Waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 2 and 3 
 * [talib-document](https://github.com/HuaRongSAO/talib-document) - A document for TALIB, a library for technical analysis in C.
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library 
+* [backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies 
+* [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+* [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
@@ -156,6 +160,8 @@ List of my interests.
 * [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 * [elastic](https://github.com/olivere/elastic) -  Elasticsearch client for Go. 
 * [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. 
+* [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
+* [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
@@ -172,7 +178,7 @@ List of my interests.
 * [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 * [APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 
-### 前端
+### Web
 * [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [d2-admin](https://github.com/d2-projects/d2-admin) - 🌈 An elegant dashboard.
 * [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template.
@@ -221,7 +227,12 @@ List of my interests.
 * [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 * [create-vue](https://github.com/vuejs/create-vue) - An easy way to start a Vue project 
 * [tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System 
-
+* [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。 
+* [PDF-Explained](https://github.com/zxyle/PDF-Explained) - 《PDF 解析》 
+* [pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript 
+* [jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone. 
+* [Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent 
+  
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
 
@@ -238,8 +249,9 @@ List of my interests.
 * [rubick](https://github.com/clouDr-f2e/rubick) - 🔧 媲美utools的开源工具箱，自由集成丰富插件，utools生态插件可无差异化使用。
 * [lowdb](https://github.com/typicode/lowdb) - Tiny local JSON database for small projects (supports Node, Electron and the browser) 
 * [QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
+* [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. 
 
-### 数据库
+### Database
 * [undrop-for-innodb](https://github.com/chhabhaiya/undrop-for-innodb) - TwinDB data recovery toolkit for MySQL/InnoDB.
 * [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. 
 * [proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
@@ -261,9 +273,10 @@ List of my interests.
 * [canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 * [godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群 
 * [Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
-* [esupdater](https://github.com/WGrape/esupdater) - A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架 
+* [esupdater](https://github.com/WGrape/esupdater) - A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架
+* [mysql-sniffer](https://github.com/Qihoo360/mysql-sniffer) - mysql-sniffer is a network traffic analyzer tool for mysql, it is developed by Qihoo DBA and infrastructure team
 
-### 容器
+### Container
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [runtime](https://github.com/kata-containers/runtime) - Kata Containers runtime.
 * [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox.
@@ -291,7 +304,7 @@ List of my interests.
 * [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security 
 * [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
 
-### 微服务
+### Microservices
 * [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. 
 * [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 * [Kong](https://github.com/Kon) - Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway or API Middleware). Made available as an open-source project in 2015, its core values are high performance and extensibility.
@@ -313,7 +326,7 @@ List of my interests.
 * [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 * [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform 
 
-### 分布式系统
+### Distribution System
 * [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage 
 
 ### DevOps
@@ -352,7 +365,7 @@ List of my interests.
 * [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.  
 * [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform 
 
-### 监控
+### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 * [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com.
 * [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch.
@@ -378,6 +391,7 @@ List of my interests.
 * [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. 
 * [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus. 
 * [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) -  Prometheus exporter for custom eBPF metrics 
+* [categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale 
 
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
@@ -386,7 +400,7 @@ List of my interests.
 * [sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 * [yao](https://github.com/YaoApp/yao) - Yao A low code engine to create web services and dashboard. 
 
-### 大数据
+### Big Data
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 * [keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -409,7 +423,7 @@ List of my interests.
 * [PaddleX](https://github.com/PaddlePaddle/PaddleX) - PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） 
 * [OpenCV](https://github.com/opencv/opencv) - OpenCV is a computer vision library. It is mainly used for computer vision and machine learning.
 
-### 安全
+### Security
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 * [Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集.
 * [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response.
@@ -444,7 +458,7 @@ List of my interests.
 * [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. 
 * [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility 
 
-### 开发相关
+### Development
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 * [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 * [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
@@ -470,7 +484,7 @@ List of my interests.
 * [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purpose
 * [Dapper-translation](https://github.com/bigbully/Dapper-translation) -  translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
 
-### 逆向相关
+### Reverse
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
 * [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 * [smali](https://github.com/JesusFreke/smali) - smali/baksmali 
@@ -495,7 +509,7 @@ List of my interests.
 * [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. 
 * [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers 
 
-### 工具
+### Tools
 * [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
 * [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution.
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. 
@@ -551,9 +565,12 @@ List of my interests.
 * [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes 
 * [sysdig](https://github.com/draios/sysdig) - Sysdig is a tool that lets you monitor and analyze the behavior of your system. It is a collection of tools that can be used to monitor and analyze the behavior of your system.
 * [q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH. 
-* [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) 
-
-### 资料
+* [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+* [ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64. 
+* [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops 
+* [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer 
+  
+### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
 * [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果）
 * [english-words](https://github.com/dwyl/english-words) - 📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.
@@ -634,8 +651,12 @@ List of my interests.
 * [software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture. 
 * [blog](https://github.com/fengshi123/blog) - 汇总发布的前端博文，大家一起交流学习，如果有帮助到您，欢迎 star ~    
 * [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 像小说一样品读 Linux 0.11 核心代码 
+* [The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book) -  Code Repository for The Kaggle Book, Published by Packt Publishing
+* [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) -  Practical concurrency guide in Go, communication by channels, patterns 
+* [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频 
+* [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
-### 面试
+### Interview
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 * [CS-Notes](https://github.com/CyC2018/CS-Notes) - 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++.
@@ -658,7 +679,7 @@ List of my interests.
 * [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 * [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 
 
-### 其它
+### Others
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 * [theuselessweb](https://github.com/ankylau/theuselessweb) - theuselessweb.
 * [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away.
