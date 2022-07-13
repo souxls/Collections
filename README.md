@@ -21,7 +21,7 @@ List of my interests.
     - [Big Data](#big-data)
     - [Security](#security)
     - [Development](#development)
-    - [Reverse](#reverse)
+    - [Reverse engineering](#reverse-engineering)
     - [Tools](#tools)
     - [References](#references)
     - [Interview](#interview)
@@ -484,7 +484,7 @@ List of my interests.
 * [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purpose
 * [Dapper-translation](https://github.com/bigbully/Dapper-translation) -  translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
 
-### Reverse
+### Reverse engineering
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
 * [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 * [smali](https://github.com/JesusFreke/smali) - smali/baksmali 
