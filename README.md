@@ -107,6 +107,7 @@ List of my interests.
 * [backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies 
 * [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 * [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. 
+* [quart](https://github.com/pallets/quart) -  An async Python micro framework for building web applications. 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
