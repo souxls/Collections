@@ -164,6 +164,7 @@ List of my interests.
 * [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 * [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang 
 * [cmux](https://github.com/soheilhy/cmux) -  Connection multiplexer for GoLang: serve different services on the same port! 
+* [fsm](https://github.com/looplab/fsm) -  Finite State Machine for Go 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
