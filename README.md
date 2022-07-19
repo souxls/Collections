@@ -163,6 +163,7 @@ List of my interests.
 * [gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. 
 * [raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 * [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang 
+* [cmux](https://github.com/soheilhy/cmux) -  Connection multiplexer for GoLang: serve different services on the same port! 
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
