@@ -34,7 +34,8 @@ List of my interests.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱.
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
-* [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版* [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
+* [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版
+* [awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
 * [awesome-gitops](https://github.com/weaveworks/awesome-gitops) - A curated list for awesome GitOps resources.
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 * [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -45,9 +46,9 @@ List of my interests.
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) - A curated list of awesome MySQL software, libraries, tools and resources
 * [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - MySQL 资源大全中文版
 * [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-* [awesome-low-code](https://github.com/steedos/awesome-low-code)
+* [awesome-low-code](https://github.com/steedos/awesome-low-code) -  Awesome Low-Code Application Platforms | 全球低代码平台开发资源大全 
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台
-* [Awesome-design-tools](https://github.com/phh95/Awesome-design-tools)
+* [Awesome-design-tools](https://github.com/phh95/Awesome-design-tools) - 好用的设计工具合集
 * [awesome-vue](https://github.com/vuejs/awesome-vue) -  A curated list of awesome things related to Vue.js.
 * [awesome-element](https://github.com/ElementUI/awesome-element) - A curated list of Element projects.
 * [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版
