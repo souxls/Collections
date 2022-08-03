@@ -402,7 +402,7 @@ List of my interests.
 * [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting. 
 * [datadog-agent](https://github.com/DataDog/datadog-agent) -  Datadog Agent 
 * [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector) -  OpenTelemetry Collector 
-* 
+
 ### LowCode
 * [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
 * [Mendix](https://www.mendix.com/) - Mendix is a low-code software platform. It provides tools to build, test, deploy and iterate applications. 
