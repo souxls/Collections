@@ -310,6 +310,7 @@ List of my interests.
 * [Cilium](https://github.com/cilium/cilium) -  eBPF-based Networking, Security, and Observability 
 * [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security 
 * [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
+* [peetch](https://github.com/quarkslab/peetch) - peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.
 
 ### Microservices
 * [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. 
