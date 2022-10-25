@@ -70,6 +70,7 @@ List of my interests.
 * [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples 
 * [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier 
+* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -366,6 +367,7 @@ List of my interests.
 * [ngx_brotli](https://github.com/google/ngx_brotli) -  NGINX module for Brotli compression
 * [zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.  
 * [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform 
+* [mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java 
 
 ### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -584,7 +586,7 @@ List of my interests.
 * [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer 
 * [tabby](https://github.com/Eugeny/tabby) -  A terminal for a more modern age
 * [fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server 
-
+* [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
