@@ -498,6 +498,7 @@ List of my interests.
 * [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects 
 * [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purpose
 * [Dapper-translation](https://github.com/bigbully/Dapper-translation) -  translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
+* [go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 
 
 ### Reverse engineering
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
@@ -739,4 +740,5 @@ List of my interests.
 * [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. 
 * [dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 
 * [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
-* [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库 
+* [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+* [chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。 
