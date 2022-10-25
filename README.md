@@ -71,6 +71,7 @@ List of my interests.
 * [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier 
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 
+* [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. 
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
