@@ -580,6 +580,7 @@ List of my interests.
 * [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops 
 * [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer 
 * [tabby](https://github.com/Eugeny/tabby) -  A terminal for a more modern age
+* [fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server 
 
 
 ### References
