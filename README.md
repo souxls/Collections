@@ -6,7 +6,7 @@ List of my interests.
     - [Python](#python)
     - [Go](#go)
     - [Java](#java)
-    - [Web](#web)
+    - [Web template framework](#web-template-framework)
     - [PHP](#php)
     - [APP](#app)
     - [Database](#database)
@@ -187,7 +187,7 @@ List of my interests.
 * [xxl-job](https://github.com/xuxueli/xxl-job) - A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 * [APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 
-### Web
+### Web template framework
 * [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [d2-admin](https://github.com/d2-projects/d2-admin) - 🌈 An elegant dashboard.
 * [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template.
