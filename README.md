@@ -594,6 +594,7 @@ List of my interests.
 * [tabby](https://github.com/Eugeny/tabby) -  A terminal for a more modern age
 * [fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server 
 * [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) -  Master the command line, in one page
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
