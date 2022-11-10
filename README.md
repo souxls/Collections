@@ -285,6 +285,7 @@ List of my interests.
 * [mysql-sniffer](https://github.com/Qihoo360/mysql-sniffer) - mysql-sniffer is a network traffic analyzer tool for mysql, it is developed by Qihoo DBA and infrastructure team
 * [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 * [janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database 
+* [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability 
 
 ### Container
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
