@@ -597,6 +597,7 @@ List of my interests.
 * [fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server 
 * [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) -  Master the command line, in one page
+* [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology 
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
