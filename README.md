@@ -506,6 +506,7 @@ List of my interests.
 * [Dapper-translation](https://github.com/bigbully/Dapper-translation) -  translate the paper of "Dapper, a Large-Scale Distributed Systems Tracing Infrastructure"
 * [go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 
 * [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) - 🔥 Linux下C++轻量级Web服务器学习 
+* [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版) 
 
 ### Reverse engineering
 * [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps 
