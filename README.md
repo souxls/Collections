@@ -321,7 +321,8 @@ List of my interests.
 * [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy 
 * [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. 
+* [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+* [higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
 
 ### Serverless
 * [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
