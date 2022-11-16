@@ -286,6 +286,7 @@ List of my interests.
 * [neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 * [janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database 
 * [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability 
+* [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite 
 
 ### Container
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
