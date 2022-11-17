@@ -756,6 +756,7 @@ List of my interests.
 * [freenom](https://github.com/ohmyzsh/ohmyzsh) - Freenom域名自动续期。Freenom domain name renews automatically. 
 * [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync) - Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. 
 * [dootask](https://github.com/kuaifan/dootask) - DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
 * [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 * [ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用
