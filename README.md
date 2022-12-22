@@ -692,6 +692,7 @@ List of my interests.
 * [go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) -  Practical concurrency guide in Go, communication by channels, patterns 
 * [linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频 
 * [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+* [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) -  Collection of Cyber Threat Intelligence sources from the deep and dark web
 
 ### Interview
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
