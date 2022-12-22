@@ -380,6 +380,7 @@ List of my interests.
 * [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform 
 * [mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java 
 * [mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
+* [bk-sops](https://github.com/Tencent/bk-sops) - 蓝鲸智云标准运维(SOPS) 
   
 ### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -454,6 +455,7 @@ List of my interests.
 * [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code 
 * [memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
 * [havenask](https://github.com/alibaba/havenask) - Havenask是阿里巴巴集团自研的搜索引擎，也是阿里巴巴内部广泛使用的大规模分布式检索系统
+* [fastai](https://github.com/fastai/fastai) - The fastai deep learning library 
 
 ### Security
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -491,6 +493,7 @@ List of my interests.
 * [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 * [Vulnerable-Flask-App](https://github.com/anil-yelken/Vulnerable-Flask-App) - Erlik 2 - Vulnerable-Flask-App 
+* [clamav](https://github.com/Cisco-Talos/clamav) -  ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. 
 
 ### Development
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -612,6 +615,7 @@ List of my interests.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) -  Master the command line, in one page
 * [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology 
 * [ssh-agent](https://github.com/msimerson/ssh-agent) - A shell script that loads ssh-agent and keys into each terminal session of a workstation 
+* [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. 
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
@@ -723,6 +727,8 @@ List of my interests.
 * [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon. 
 * [algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
 * [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 
+* [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ 
+* [python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions 
 
 ### Others
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -772,3 +778,4 @@ List of my interests.
 * [chinese-f2e-developer](https://github.com/f2e-developer/chinese-f2e-developer) - 中国前端开发者。 
 * [BlueSea](https://github.com/jiangqizheng/BlueSea) - BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计... 
 * [Awada](https://github.com/bigbrother666sh/Awada) - 虚拟人“灵魂”系统（主题域对话解决方案），可应用于各类虚拟人、虚拟演员、智能陪护与教育场景，亦可与目标域对话结合，从而为政务服务、客服等应用带来更好的体验。 
+* [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results 
