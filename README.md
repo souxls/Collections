@@ -344,6 +344,7 @@ List of my interests.
 * [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. 
 * [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. 
 * [ansible-role-nginx](https://github.com/nginxinc/ansible-role-nginx) - Ansible role for NGINX
+* [ansible-runner-service](https://github.com/ansible/ansible-runner-service) - This project wraps the ansible_runner interface inside a REST API enabling ansible playbooks to be executed and queried from other platforms.
 * [ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux) - A Linux network throughput multiple-thread benchmark tool.
 * [coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * [JCoz](https://github.com/Decave/JCoz) - JCoz -- The first Java causal profiler.
