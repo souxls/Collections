@@ -113,6 +113,7 @@ List of my interests.
 * [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. 
 * [quart](https://github.com/pallets/quart) -  An async Python micro framework for building web applications. 
 * [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
+* [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
@@ -339,6 +340,7 @@ List of my interests.
 
 ### Distribution system
 * [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage 
+* [lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage 
 
 ### DevOps
 * [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
