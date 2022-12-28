@@ -730,6 +730,8 @@ List of my interests.
 * [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话 
 * [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations ✨ 
 * [python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions 
+* [course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 
+* [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) -  整理过去的分享，从零开始的Kubernetes攻防 🧐 
 
 ### Others
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
