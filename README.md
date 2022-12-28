@@ -319,6 +319,7 @@ List of my interests.
 * [Calico](https://github.com/projectcalico/calico) - Cloud native networking and network security 
 * [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
 * [peetch](https://github.com/quarkslab/peetch) - peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.
+* [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. 
 
 ### Microservices
 * [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. 
