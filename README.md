@@ -782,3 +782,6 @@ List of my interests.
 * [BlueSea](https://github.com/jiangqizheng/BlueSea) - BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计... 
 * [Awada](https://github.com/bigbrother666sh/Awada) - 虚拟人“灵魂”系统（主题域对话解决方案），可应用于各类虚拟人、虚拟演员、智能陪护与教育场景，亦可与目标域对话结合，从而为政务服务、客服等应用带来更好的体验。 
 * [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results 
+* [ChatGPT](https://github.com/lencx/ChatGPT) -  🤖 ChatGPT Desktop Application (Mac, Windows and Linux) 
+* [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) -  API server for ChatGPT 
+* [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
