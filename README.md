@@ -381,7 +381,8 @@ List of my interests.
 * [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform 
 * [mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java 
 * [mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
-* [bk-sops](https://github.com/Tencent/bk-sops) - 蓝鲸智云标准运维(SOPS) 
+* [bk-sops](https://github.com/Tencent/bk-sops) - 蓝鲸智云标准运维(SOPS)
+* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
   
 ### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
