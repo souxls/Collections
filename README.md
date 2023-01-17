@@ -242,6 +242,7 @@ List of my interests.
 * [mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
 * [lexical](https://github.com/facebook/lexical) -  Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. 
 * [sargam-icons](https://github.com/planetabhi/sargam-icons) - A collection of 250+ open-source icons devoted to match your exquisite designs. 
+* [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） 
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
@@ -290,6 +291,7 @@ List of my interests.
 * [janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database 
 * [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability 
 * [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite 
+* [mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs. 
 
 ### Container
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -497,6 +499,7 @@ List of my interests.
 * [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 * [Vulnerable-Flask-App](https://github.com/anil-yelken/Vulnerable-Flask-App) - Erlik 2 - Vulnerable-Flask-App 
 * [clamav](https://github.com/Cisco-Talos/clamav) -  ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. 
+* [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit 
 
 ### Development
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -619,6 +622,7 @@ List of my interests.
 * [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology 
 * [ssh-agent](https://github.com/msimerson/ssh-agent) - A shell script that loads ssh-agent and keys into each terminal session of a workstation 
 * [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. 
+* [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
@@ -707,6 +711,7 @@ List of my interests.
 * [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 * [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) -  Collection of Cyber Threat Intelligence sources from the deep and dark web
 * [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS 
+* [stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 
 
 ### Interview
 * [interview_python](https://github.com/taizilongxu/interview_python) - interview
@@ -734,6 +739,7 @@ List of my interests.
 * [python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions 
 * [course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 
 * [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) -  整理过去的分享，从零开始的Kubernetes攻防 🧐 
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers 
 
 ### Others
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -787,3 +793,5 @@ List of my interests.
 * [ChatGPT](https://github.com/lencx/ChatGPT) -  🤖 ChatGPT Desktop Application (Mac, Windows and Linux) 
 * [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) -  API server for ChatGPT 
 * [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+* [answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
+*  
