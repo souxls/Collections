@@ -72,6 +72,7 @@ List of my interests.
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier 
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. 
+* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.  
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -114,7 +115,8 @@ List of my interests.
 * [quart](https://github.com/pallets/quart) -  An async Python micro framework for building web applications. 
 * [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 * [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite 
-* [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+* [xorbits](https://github.com/xprobe-inc/xorbits) - Scalable Python data science, in an API compatible & lightning fast way. 
+* [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡ 
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
@@ -173,6 +175,7 @@ List of my interests.
 * [cmux](https://github.com/soheilhy/cmux) -  Connection multiplexer for GoLang: serve different services on the same port! 
 * [fsm](https://github.com/looplab/fsm) -  Finite State Machine for Go 
 * [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands 
+* [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
