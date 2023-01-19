@@ -623,6 +623,7 @@ List of my interests.
 * [ssh-agent](https://github.com/msimerson/ssh-agent) - A shell script that loads ssh-agent and keys into each terminal session of a workstation 
 * [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. 
 * [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
+* [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
