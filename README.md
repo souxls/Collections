@@ -114,6 +114,7 @@ List of my interests.
 * [quart](https://github.com/pallets/quart) -  An async Python micro framework for building web applications. 
 * [apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 * [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite 
+* [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 
 ### Go
 * [go](https://github.com/golang/go) - The Go programming language
@@ -623,7 +624,7 @@ List of my interests.
 * [ssh-agent](https://github.com/msimerson/ssh-agent) - A shell script that loads ssh-agent and keys into each terminal session of a workstation 
 * [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. 
 * [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
-* [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+
 
 ### References
 * [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
