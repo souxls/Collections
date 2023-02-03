@@ -76,6 +76,7 @@ List of my interests.
 
 ### Python
 * [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+* [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 * [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production https://fastapi.tiangolo.com/.
 * [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth and OpenID Connect servers. JWS,JWE,JWK,JWA,JWT included.
 * [sh](https://github.com/amoffat/sh) - Python process launching.
