@@ -393,6 +393,7 @@ List of my interests.
 * [bk-sops](https://github.com/Tencent/bk-sops) - 蓝鲸智云标准运维(SOPS)
 * [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
 * [Vault](https://github.com/hashicorp/vault) -  A tool for secrets management, encryption as a service, and privileged access management 
+* [spug](https://github.com/openspug/spug) -  开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 
   
 ### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
