@@ -248,6 +248,7 @@ List of my interests.
 * [lexical](https://github.com/facebook/lexical) -  Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. 
 * [sargam-icons](https://github.com/planetabhi/sargam-icons) - A collection of 250+ open-source icons devoted to match your exquisite designs. 
 * [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） 
+* [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) -  AdminLTE - Free admin dashboard template based on Bootstrap 4 
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
