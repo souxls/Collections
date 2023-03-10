@@ -642,6 +642,7 @@ List of my interests.
 * [ssh-agent](https://github.com/msimerson/ssh-agent) - A shell script that loads ssh-agent and keys into each terminal session of a workstation 
 * [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities. 
 * [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
+* [alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 
 
 
 ### References
