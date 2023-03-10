@@ -210,6 +210,7 @@ List of my interests.
 * [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template.
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - 🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin.
 * [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
+* [element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team 
 * [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 * [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 * [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
@@ -250,6 +251,8 @@ List of my interests.
 * [sargam-icons](https://github.com/planetabhi/sargam-icons) - A collection of 250+ open-source icons devoted to match your exquisite designs. 
 * [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） 
 * [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) -  AdminLTE - Free admin dashboard template based on Bootstrap 4 
+* [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+* [pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support 
 
 ### PHP
 * [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
@@ -330,6 +333,7 @@ List of my interests.
 * [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
 * [peetch](https://github.com/quarkslab/peetch) - peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.
 * [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. 
+* [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes 
 
 ### Microservices
 * [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. 
@@ -396,6 +400,7 @@ List of my interests.
 * [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform 
 * [Vault](https://github.com/hashicorp/vault) -  A tool for secrets management, encryption as a service, and privileged access management 
 * [spug](https://github.com/openspug/spug) -  开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。 
+* [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - 
   
 ### Monitor
 * [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -471,6 +476,8 @@ List of my interests.
 * [memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
 * [havenask](https://github.com/alibaba/havenask) - Havenask是阿里巴巴集团自研的搜索引擎，也是阿里巴巴内部广泛使用的大规模分布式检索系统
 * [fastai](https://github.com/fastai/fastai) - The fastai deep learning library 
+* [ControlNet](https://github.com/lllyasviel/ControlNet) - ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+* [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary. 
 
 ### Security
 * [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -510,6 +517,7 @@ List of my interests.
 * [Vulnerable-Flask-App](https://github.com/anil-yelken/Vulnerable-Flask-App) - Erlik 2 - Vulnerable-Flask-App 
 * [clamav](https://github.com/Cisco-Talos/clamav) -  ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. 
 * [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit 
+* [ID-entify](https://github.com/BillyV4/ID-entify) - Search for information related to domain: Emails - IP addresses - Sub-Domains - Information on WEB technology - Type of Firewall - NS and MX records. 
 
 ### Development
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -752,6 +760,7 @@ List of my interests.
 * [course](https://github.com/parallel101/course) - 高性能并行编程与优化 - 课件 
 * [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) -  整理过去的分享，从零开始的Kubernetes攻防 🧐 
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers 
+* [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册 
 
 ### Others
 * [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
