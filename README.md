@@ -178,7 +178,8 @@ List of my interests.
 * [fsm](https://github.com/looplab/fsm) -  Finite State Machine for Go 
 * [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands 
 * [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-* [ project-layout](https://github.com/golang-standards/project-layout) -  Standard Go Project Layout 
+* [project-layout](https://github.com/golang-standards/project-layout) -  Standard Go Project Layout 
+* [gotraining](https://github.com/ardanlabs/gotraining) - Package Oriented Design
 
 ### Java
 * [jdk](https://github.com/openjdk/jdk) - JDK main-line development 
