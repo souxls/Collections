@@ -4,36 +4,35 @@ List of my interests.
 
 - [GitHub Collection List](#github-collection-list)
   - [Awesome](#awesome)
-    - [Python](#python)
-    - [Go](#go)
-    - [Java](#java)
-    - [Web frontend framework](#web-frontend-framework)
-    - [PHP](#php)
-    - [APP](#app)
-    - [Database](#database)
-    - [Container](#container)
-    - [Microservices](#microservices)
-    - [Serverless](#serverless)
-    - [Distribution system](#distribution-system)
-    - [DevOps](#devops)
-    - [Monitor](#monitor)
-    - [APM](#apm)
-    - [RUM](#rum)
-    - [LowCode](#lowcode)
-    - [Big Data](#big-data)
-    - [AI](#ai)
-    - [Security](#security)
-    - [Development](#development)
-    - [Reverse engineering](#reverse-engineering)
-    - [Tools](#tools)
-    - [References](#references)
-    - [Interview](#interview)
-    - [Others](#others)
+  - [Python](#python)
+  - [Go](#go)
+  - [Java](#java)
+  - [Web frontend framework](#web-frontend-framework)
+  - [PHP](#php)
+  - [APP](#app)
+  - [Database](#database)
+  - [Container](#container)
+  - [Microservices](#microservices)
+  - [Serverless](#serverless)
+  - [Distribution system](#distribution-system)
+  - [DevOps](#devops)
+  - [Monitor](#monitor)
+  - [APM](#apm)
+  - [RUM](#rum)
+  - [LowCode](#lowcode)
+  - [Big Data](#big-data)
+  - [AI](#ai)
+  - [Security](#security)
+  - [Development](#development)
+  - [Reverse engineering](#reverse-engineering)
+  - [Tools](#tools)
+  - [References](#references)
+  - [Interview](#interview)
+  - [Others](#others)
 
 ## Awesome
 
 - [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics.
-
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -78,10 +77,9 @@ List of my interests.
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.  
 
-### Python
+## Python
 
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production <https://fastapi.tiangolo.com/>.
 - [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth and OpenID Connect servers. JWS,JWE,JWK,JWA,JWT included.
@@ -126,10 +124,9 @@ List of my interests.
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ujrpc](https://github.com/unum-cloud/ujrpc) -  Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
 
-### Go
+## Go
 
 - [go](https://github.com/golang/go) - The Go programming language
-
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -187,12 +184,14 @@ List of my interests.
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [project-layout](https://github.com/golang-standards/project-layout) -  Standard Go Project Layout
-- [gotraining](https://github.com/ardanlabs/gotraining) - Package Oriented Design
+- [gotraining](https://github.com/ardanlabs/gotraining) - Package Oriented Design.
+- [sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake.
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀.
+- [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
 
-### Java
+## Java
 
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
-
 - [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas.
 - [dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
@@ -206,10 +205,9 @@ List of my interests.
 - [APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 
-### Web frontend framework
+## Web frontend framework
 
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-
 - [d2-admin](https://github.com/d2-projects/d2-admin) - 🌈 An elegant dashboard.
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template.
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
@@ -267,16 +265,22 @@ List of my interests.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) -  AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-- [pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- [pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
+- [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
+- [router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js.
+- [naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. 
+- [naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中.
+- [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板.
+- [iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SV… .
+- [qs-admin](https://github.com/zclzone/qs-admin) - ⚡️轻量级后台管理模板， 基于 Vue3 + Vite3 + TypeScript + Pinia + Unocss + Naive UI .
 
-### PHP
+## PHP
 
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab).
 
-### APP
+## APP
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
-
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps.
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -291,10 +295,9 @@ List of my interests.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.
 
-### Database
+## Database
 
 - [undrop-for-innodb](https://github.com/chhabhaiya/undrop-for-innodb) - TwinDB data recovery toolkit for MySQL/InnoDB.
-
 - [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and HA.
@@ -324,18 +327,14 @@ List of my interests.
 - [mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs.
 - [Archery](https://github.com/hhyo/Archery) -  SQL 审核查询平台
 
-### Container
+## Container
 
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-
 - [runtime](https://github.com/kata-containers/runtime) - Kata Containers runtime.
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox.
 - [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) Cloud Native slides and materials share.
-
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-
 - [oam-go-sdk](https://github.com/oam-dev/oam-go-sdk) - Simplify building OAM runtime
-
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
@@ -360,10 +359,9 @@ List of my interests.
 - [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 
-### Microservices
+## Microservices
 
 - [apollo](https://github.com/ctripcorp/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [Kong](https://github.com/Kon) - Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway or API Middleware). Made available as an open-source project in 2015, its core values are high performance and extensibility.
 - [zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -373,7 +371,7 @@ List of my interests.
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
 
-### Serverless
+## Serverless
 
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [knative](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -381,15 +379,14 @@ List of my interests.
 - [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 
-### Distribution system
+## Distribution system
 
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage
 
-### DevOps
+## DevOps
 
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-
 - [st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. <https://docs.ansible.com>.
@@ -433,10 +430,9 @@ List of my interests.
 - [spug](https://github.com/openspug/spug) -  开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) -
   
-### Monitor
+## Monitor
 
 - [zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More <https://grafana.com>.
 - [elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch.
 - [bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
@@ -460,9 +456,10 @@ List of my interests.
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) -  Prometheus exporter for custom eBPF metrics
-- [categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale
+- [categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale.
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 
-### APM
+## APM
 
 - [pinpoint](https://github.com/naver/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems written in Java.
 
@@ -470,7 +467,7 @@ List of my interests.
 - [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 
-### RUM
+## RUM
 
 - [webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-end logs and analyzes front-end health status in real time.
 
@@ -478,7 +475,7 @@ List of my interests.
 - [datadog-agent](https://github.com/DataDog/datadog-agent) -  Datadog Agent
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector) -  OpenTelemetry Collector
 
-### LowCode
+## LowCode
 
 - [OutSystems](https://www.outsystems.com/low-code-platforms/) - OutSystems
 
@@ -489,7 +486,7 @@ List of my interests.
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
 
-### Big Data
+## Big Data
 
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.
 
@@ -520,17 +517,23 @@ List of my interests.
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 
-### AI
+## AI
 
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
-
 - [ChatGPT](https://github.com/lencx/ChatGPT) -  🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) -  API server for ChatGPT
-
-### Security
+- [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) -  API server for ChatGPT.
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
+- [document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5).
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs).
+- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
+- [StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models.
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
+- [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model.
+- [semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search.
+  
+## Security
 
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
-
 - [Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集.
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response.
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun! 乌云公开漏洞、知识库爬虫和搜索 crawl and search for wooyun.org public bug(vulnerability) and drops.
@@ -569,10 +572,9 @@ List of my interests.
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [ID-entify](https://github.com/BillyV4/ID-entify) - Search for information related to domain: Emails - IP addresses - Sub-Domains - Information on WEB technology - Type of Firewall - NS and MX records.
 
-### Development
+## Development
 
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
 - [design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓.
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
@@ -600,11 +602,11 @@ List of my interests.
 - [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) - 🔥 Linux下C++轻量级Web服务器学习
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [simdjson](https://github.com/simdjson/simdjson) -  Parsing gigabytes of JSON per second
+- [restful-api-specification](https://github.com/godruoyi/restful-api-specification) - RESTful API Design Specification.
 
-### Reverse engineering
+## Reverse engineering
 
 - [Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
-
 - [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -628,10 +630,9 @@ List of my interests.
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 
-### Tools
+## Tools
 
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree.
-
 - [freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
@@ -699,8 +700,9 @@ List of my interests.
 - [TripleCross](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 - [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
-### References
+## References
 
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs.
 
@@ -791,7 +793,7 @@ List of my interests.
 - [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 - [stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 
-### Interview
+## Interview
 
 - [interview_python](https://github.com/taizilongxu/interview_python) - interview
 
@@ -822,10 +824,9 @@ List of my interests.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 
-### Others
+## Others
 
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
-
 - [theuselessweb](https://github.com/ankylau/theuselessweb) - theuselessweb.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away.
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
@@ -874,4 +875,8 @@ List of my interests.
 - [Awada](https://github.com/bigbrother666sh/Awada) - 虚拟人“灵魂”系统（主题域对话解决方案），可应用于各类虚拟人、虚拟演员、智能陪护与教育场景，亦可与目标域对话结合，从而为政务服务、客服等应用带来更好的体验。
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
--  
+- [Hosts](https://github.com/JohyC/Hosts) -  Python解析域名生成Hosts文件.
+- [engra](https://github.com/bonaysoft/engra) -  一份由所有学习者共同编写的英语词根词缀数据库.
+- [scouter-extension](https://github.com/draJiang/scouter-extension) - Learning English Chrome Extension.
+- [fmedia](https://github.com/stsaz/fmedia) - fast audio player/recorder/converter.
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
