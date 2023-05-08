@@ -188,6 +188,8 @@ List of my interests.
 - [sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake.
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀.
 - [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
+- [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
+- [milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications.
 
 ## Java
 
@@ -272,7 +274,8 @@ List of my interests.
 - [naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中.
 - [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板.
 - [iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SV… .
-- [qs-admin](https://github.com/zclzone/qs-admin) - ⚡️轻量级后台管理模板， 基于 Vue3 + Vite3 + TypeScript + Pinia + Unocss + Naive UI .
+- [qs-admin](https://github.com/zclzone/qs-admin) - ⚡️轻量级后台管理模板， 基于 Vue3 + Vite3 + TypeScript + Pinia + Unocss + Naive UI.
+- [unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 
 ## PHP
 
@@ -326,6 +329,8 @@ List of my interests.
 - [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs.
 - [Archery](https://github.com/hhyo/Archery) -  SQL 审核查询平台
+- [qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud <https://cloud.qdrant.io/> 
+- [starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 
 ## Container
 
@@ -357,7 +362,8 @@ List of my interests.
 - [crane](https://github.com/gocrane/crane) - Crane is a tool for building Kubernetes clusters.
 - [peetch](https://github.com/quarkslab/peetch) - peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.
 - [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
-- [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
+- [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes.
+- [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer.
 
 ## Microservices
 
@@ -428,7 +434,8 @@ List of my interests.
 - [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [Vault](https://github.com/hashicorp/vault) -  A tool for secrets management, encryption as a service, and privileged access management
 - [spug](https://github.com/openspug/spug) -  开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-- [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) -
+- [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - RoadMap
+- [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
   
 ## Monitor
 
@@ -526,7 +533,11 @@ List of my interests.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.
 - [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model.
 - [semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search.
-  
+- [OpenChineseLLaMA](https://github.com/OpenLMLab/OpenChineseLLaMA) - Chinese large language model base generated through incremental pre-training on Chinese datasets.
+- [pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.
+- [edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
+- [vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. <https://vespa.ai>  
+
 ## Security
 
 - [ModSecurity](https://github.com/SpiderLabs/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -874,3 +885,6 @@ List of my interests.
 - [scouter-extension](https://github.com/draJiang/scouter-extension) - Learning English Chrome Extension.
 - [fmedia](https://github.com/stsaz/fmedia) - fast audio player/recorder/converter.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat. 
+- [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+  
