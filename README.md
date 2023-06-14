@@ -75,7 +75,9 @@ List of my interests.
 - [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute! 🎓
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.  
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation) - Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository. Built on Jupyter Notebooks, our automation platform jumpstarts your SRE RunBook creation. 😎 published by the unSkript community.
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Latest Papers and Datasets on Multimodal Large Language Models.
 
 ## Python
 
@@ -123,6 +125,7 @@ List of my interests.
 - [xorbits](https://github.com/xprobe-inc/xorbits) - Scalable Python data science, in an API compatible & lightning fast way.
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ujrpc](https://github.com/unum-cloud/ujrpc) -  Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
+- [urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python.
 
 ## Go
 
@@ -190,6 +193,9 @@ List of my interests.
 - [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
 - [validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 - [milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications.
+- [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC.
+- [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
+- [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects".
 
 ## Java
 
@@ -232,6 +238,7 @@ List of my interests.
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - 一个基于vue-cli4,vue-composition-api,ant-design-vue,typescript，vue hooks实现的后台管理系统，后续可以兼容vue3版本
+- [vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - A mock plugin for vite.use mockjs.
 - [laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI <https://laravue.dev>
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -276,6 +283,10 @@ List of my interests.
 - [iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SV… .
 - [qs-admin](https://github.com/zclzone/qs-admin) - ⚡️轻量级后台管理模板， 基于 Vue3 + Vite3 + TypeScript + Pinia + Unocss + Naive UI.
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+- [twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. <https://twemoji.twitter.com>
+- [soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]
+- [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous.
+- [fs](https://github.com/whatwg/fs) - File System Standard.
 
 ## PHP
 
@@ -331,6 +342,7 @@ List of my interests.
 - [Archery](https://github.com/hhyo/Archery) -  SQL 审核查询平台
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud <https://cloud.qdrant.io/>  
 - [starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
+- [undb](https://github.com/undb-xyz/undb)
 
 ## Container
 
@@ -436,6 +448,7 @@ List of my interests.
 - [spug](https://github.com/openspug/spug) -  开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - RoadMap
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+- [plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. 
   
 ## Monitor
 
@@ -519,6 +532,7 @@ List of my interests.
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+- [dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具.
 
 ## AI
 
@@ -537,6 +551,15 @@ List of my interests.
 - [pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.
 - [edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
 - [vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. <https://vespa.ai>  
+- [ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All.
+- [Dromedary](https://github.com/IBM/Dromedary) - Dromedary: towards helpful, ethical and reliable LLMs.
+- [ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers.
+- [StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI.
+- [DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023).
+- [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision.
+- [jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies.
+- [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
+- [OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone.
 
 ## Security
 
@@ -708,6 +731,7 @@ List of my interests.
 - [atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 
 ## References
 
@@ -798,6 +822,7 @@ List of my interests.
 - [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) -  Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 - [stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+- [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景.
 
 ## Interview
 
@@ -828,6 +853,8 @@ List of my interests.
 - [my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) -  整理过去的分享，从零开始的Kubernetes攻防 🧐
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+- [web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+- 
 
 ## Others
 
@@ -885,6 +912,6 @@ List of my interests.
 - [scouter-extension](https://github.com/draJiang/scouter-extension) - Learning English Chrome Extension.
 - [fmedia](https://github.com/stsaz/fmedia) - fast audio player/recorder/converter.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat. 
+- [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
   
