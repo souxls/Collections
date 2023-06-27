@@ -561,6 +561,11 @@ List of my interests.
 - [jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies.
 - [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone.
+- [whisperX](https://github.com/m-bain/whisperX) - WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization).
+- [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
+- [infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation.
+- [quivr](https://github.com/StanGirard/quivr) -  🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 .
+- [roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap).
 
 ## Security
 
@@ -602,6 +607,7 @@ List of my interests.
 - [clamav](https://github.com/Cisco-Talos/clamav) -  ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [ID-entify](https://github.com/BillyV4/ID-entify) - Search for information related to domain: Emails - IP addresses - Sub-Domains - Information on WEB technology - Type of Firewall - NS and MX records.
+- [safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 
 ## Development
 
@@ -691,6 +697,7 @@ List of my interests.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala.
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [common-regex](https://github.com/cdoco/common-regex) - 🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。
@@ -914,4 +921,4 @@ List of my interests.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-  
+- [openresume](https://github.com/wboykinm/openresume) - A responsive, print-ready CV template.
