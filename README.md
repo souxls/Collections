@@ -449,6 +449,7 @@ List of my interests.
 - [DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - RoadMap
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台.
   
 ## Monitor
 
@@ -478,6 +479,8 @@ List of my interests.
 - [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) -  Prometheus exporter for custom eBPF metrics
 - [categraf](https://github.com/flashcatcloud/categraf) - one-stop telemetry collector for nightingale.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration.
+- [oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like <http://iris.claims>.
 
 ## APM
 
