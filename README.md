@@ -747,6 +747,7 @@ List of my interests.
 - [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [MaxKey](https://github.com/dromara/MaxKey) -  MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product.<www.maxkey.top>
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) -  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。<chat.aimakex.com>
 
 ## References
 
@@ -870,6 +871,7 @@ List of my interests.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 - [web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+- [open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. <https://open-resume.com>
 
 ## Others
 
@@ -929,4 +931,4 @@ List of my interests.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-- [open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. <https://open-resume.com>
+  
