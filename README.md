@@ -537,6 +537,7 @@ List of my interests.
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - ControlNet is a neural network structure to control diffusion models by adding extra conditions.
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具.
+- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) -  Fast Segment Anything.
 
 ## AI
 
