@@ -376,6 +376,7 @@ List of my interests.
 - [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer.
+- [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 
 ## Microservices
 
