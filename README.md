@@ -938,4 +938,5 @@ List of my interests.
 - [fmedia](https://github.com/stsaz/fmedia) - fast audio player/recorder/converter.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
+- [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
   
