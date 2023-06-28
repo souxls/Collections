@@ -570,6 +570,7 @@ List of my interests.
 - [quivr](https://github.com/StanGirard/quivr) -  🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 .
 - [roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap).
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) -  ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型.
 
 ## Security
 
