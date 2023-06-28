@@ -569,7 +569,7 @@ List of my interests.
 - [infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation.
 - [quivr](https://github.com/StanGirard/quivr) -  🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠 .
 - [roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap).
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. 
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## Security
 
@@ -744,6 +744,7 @@ List of my interests.
 - [alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+- [MaxKey](https://github.com/dromara/MaxKey) -  MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product.<www.maxkey.top>
 
 ## References
 
