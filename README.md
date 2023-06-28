@@ -838,6 +838,7 @@ List of my interests.
 - [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS
 - [stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景.
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) -  Papers from the computer science community to read and discuss.<paperswelove.org>
 
 ## Interview
 
@@ -928,4 +929,4 @@ List of my interests.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-- [openresume](https://github.com/wboykinm/openresume) - A responsive, print-ready CV template.
+- [open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. <https://open-resume.com>
