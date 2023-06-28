@@ -196,6 +196,7 @@ List of my interests.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects".
+- [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 
 ## Java
 
