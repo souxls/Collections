@@ -575,6 +575,8 @@ List of my interests.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) -  ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型.
 - [generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI.
+- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 
 ## Security
 
@@ -936,5 +938,4 @@ List of my interests.
 - [fmedia](https://github.com/stsaz/fmedia) - fast audio player/recorder/converter.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
-- [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
   
