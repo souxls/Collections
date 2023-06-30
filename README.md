@@ -578,6 +578,7 @@ List of my interests.
 - [generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+- [LLaMA](https://github.com/facebookresearch/llama) - This repository is intended as a minimal, hackable and readable example to load LLaMA (arXiv) models and run inference. In order to download the checkpoints and tokenizer, fill this google form.
 
 ## Security
 
