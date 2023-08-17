@@ -349,6 +349,7 @@ List of my interests.
 - [starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [undb](https://github.com/undb-xyz/undb)
 - [mql](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
+- [bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team. <https://www.bytebase.com>
 
 ## Container
 
@@ -985,3 +986,5 @@ List of my interests.
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others.
 - [Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of <https://git.ffmpeg.org/ffmpeg.git>
+- [transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - Transfer files securely between browsers using WebRTC peer2peer.
+- [OneKeePass](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms.
