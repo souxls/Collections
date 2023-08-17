@@ -198,6 +198,7 @@ List of my interests.
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects".
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
+- [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 
 ## Java
 
