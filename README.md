@@ -949,4 +949,4 @@ List of my interests.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-  
+- [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业.
