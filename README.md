@@ -585,6 +585,7 @@ List of my interests.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
+- [chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client.
 
 ## Security
 
@@ -956,3 +957,4 @@ List of my interests.
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业.
 - [WebAV](https://github.com/hughfenghen/WebAV) - 基于 WebCodecs 在浏览器中处理音视频数据。Video and Audio tools built on WebCodecs + Canvas.
 - [twenty](https://github.com/twentyhq/twenty) - A Modern Open Source CRM.
+- [EyeWitness](https://github.com/RedSiege/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
