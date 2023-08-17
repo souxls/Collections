@@ -290,6 +290,7 @@ List of my interests.
 - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous.
 - [fs](https://github.com/whatwg/fs) - File System Standard.
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file.
+- [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系.
 
 ## PHP
 
@@ -385,6 +386,7 @@ List of my interests.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluste.
 - [Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes exploitation tool.
+- [devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes.
 
 ## Microservices
 
@@ -411,7 +413,8 @@ List of my interests.
 
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage
-
+- [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed.
+  
 ## DevOps
 
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
