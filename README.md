@@ -988,3 +988,5 @@ List of my interests.
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of <https://git.ffmpeg.org/ffmpeg.git>
 - [transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - Transfer files securely between browsers using WebRTC peer2peer.
 - [OneKeePass](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms.
+- [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files.
+- [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
