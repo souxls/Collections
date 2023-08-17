@@ -348,6 +348,7 @@ List of my interests.
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud <https://cloud.qdrant.io/>  
 - [starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [undb](https://github.com/undb-xyz/undb)
+- [mql](https://github.com/hashicorp/mql) - Model Query Language (mql) is a query language for your database models.
 
 ## Container
 
