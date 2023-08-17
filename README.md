@@ -390,6 +390,9 @@ List of my interests.
 - [devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes.
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- [kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes.
+- [kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes.
 
 ## Microservices
 
