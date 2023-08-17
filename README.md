@@ -378,6 +378,7 @@ List of my interests.
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer.
 - [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
+- [karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.
 
 ## Microservices
 
