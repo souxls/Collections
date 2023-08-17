@@ -379,6 +379,9 @@ List of my interests.
 - [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer.
 - [cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes.
 - [karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration.
+- [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluste.
 
 ## Microservices
 
@@ -951,3 +954,5 @@ List of my interests.
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业.
+- [WebAV](https://github.com/hughfenghen/WebAV) - 基于 WebCodecs 在浏览器中处理音视频数据。Video and Audio tools built on WebCodecs + Canvas.
+- [twenty](https://github.com/twentyhq/twenty) - A Modern Open Source CRM.
