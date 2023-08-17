@@ -453,6 +453,7 @@ List of my interests.
 - [1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台.
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
   
 ## Monitor
 
@@ -579,6 +580,7 @@ List of my interests.
 - [generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI.
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+- [RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
 
 ## Security
 
@@ -760,6 +762,8 @@ List of my interests.
 - [MaxKey](https://github.com/dromara/MaxKey) -  MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product.<www.maxkey.top>
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) -  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。<chat.aimakex.com>
 - [cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux.
+- [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang.
+- [tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. <https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode>
 
 ## References
 
@@ -943,4 +947,5 @@ List of my interests.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人。Hook WeChat, passing message between agent and WeChat.
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
   
