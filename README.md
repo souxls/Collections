@@ -624,6 +624,7 @@ List of my interests.
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF.
 - [trufflehog](https://github.com/trufflesecurity/trufflehog) -  Find and verify credentials.<trufflesecurity.com>
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑.
+- [rebindMultiA](https://github.com/Rhynorater/rebindMultiA) - rebindMultiA is a tool to perform a Multiple A Record rebind attack.
 
 ## Development
 
