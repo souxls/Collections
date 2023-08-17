@@ -383,6 +383,7 @@ List of my interests.
 - [kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluste.
+- [Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes exploitation tool.
 
 ## Microservices
 
@@ -459,6 +460,7 @@ List of my interests.
 - [plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
+- [bbr](https://github.com/google/bbr) - TCP BBR
   
 ## Monitor
 
@@ -589,6 +591,7 @@ List of my interests.
 - [chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client.
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper) - faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 - [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - <https://hoppscotch.io>
 
 ## Security
 
