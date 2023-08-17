@@ -416,6 +416,7 @@ List of my interests.
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Git-like capabilities for your object storage
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed.
+- [seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
   
 ## DevOps
 
@@ -878,6 +879,7 @@ List of my interests.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) -  Papers from the computer science community to read and discuss.<paperswelove.org>
 - [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃.
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
+- [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 
 ## Interview
 
