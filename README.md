@@ -759,6 +759,7 @@ List of my interests.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [MaxKey](https://github.com/dromara/MaxKey) -  MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product.<www.maxkey.top>
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) -  ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。<chat.aimakex.com>
+- [cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux.
 
 ## References
 
