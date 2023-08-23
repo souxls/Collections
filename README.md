@@ -130,6 +130,7 @@ List of my interests.
 - [langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [ujrpc](https://github.com/unum-cloud/ujrpc) -  Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
 - [urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python.
+- [poetry](https://github.com/python-poetry/poetry) -  Python packaging and dependency management made easy. <python-poetry.org>
 
 ## Go
 
@@ -612,6 +613,7 @@ List of my interests.
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) -  Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.<www.kuafuai.net>
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播.
+- [facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer.
 
 ## Security
 
@@ -800,6 +802,7 @@ List of my interests.
 - [sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [design-system](https://github.com/hashicorp/design-system) - Helios Design System.
 - [git-lfs](https://github.com/git-lfs/git-lfs) -  Git extension for versioning large files. <git-lfs.com>
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral).
 
 ## References
 
@@ -896,6 +899,7 @@ List of my interests.
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) -  🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）. <oi-wiki.org>
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师.
 
 ## Interview
 
