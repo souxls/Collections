@@ -102,6 +102,9 @@ List of my interests.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [falcon](https://github.com/falconry/falcon) - The no-nonsense web API framework for building fast and reliable microservices, proxies, and app backends in Python.
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python.
+- [numpy](https://github.com/numpy/numpy) -  The fundamental package for scientific computing with Python. <numpy.org>
+- [pandas](https://github.com/pandas-dev/pandas/) -  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more. <pandas.pydata.org>
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Selenium is an umbrella project encapsulating a variety of tools and libraries enabling web browser automation. Selenium specifically provides infrastructure for the W3C WebDriver specification — a platform and language-neutral coding interface compatible with all major web browsers.
 - [connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
@@ -562,6 +565,7 @@ List of my interests.
 - [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具.
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) -  Fast Segment Anything.
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 
 ## AI
 
@@ -605,6 +609,9 @@ List of my interests.
 - [faster-whisper](https://github.com/guillaumekln/faster-whisper) - faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 - [Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - <https://hoppscotch.io>
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) -  Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.<www.kuafuai.net>
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+- [GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播.
 
 ## Security
 
@@ -887,6 +894,7 @@ List of my interests.
 - [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) - 面向网络安全从业者的知识文库🍃.
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
+- [OI-wiki](https://github.com/OI-wiki/OI-wiki) -  🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）. <oi-wiki.org>
 
 ## Interview
 
