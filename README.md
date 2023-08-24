@@ -478,6 +478,7 @@ List of my interests.
 - [CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
 - [bbr](https://github.com/google/bbr) - TCP BBR
+- [kubeasz](https://github.com/easzlab/kubeasz) -  使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响. <github.com/easzlab/kubeasz>
   
 ## Monitor
 
