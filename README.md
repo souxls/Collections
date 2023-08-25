@@ -617,6 +617,7 @@ List of my interests.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播.
 - [facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer.
+- [codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models.
 
 ## Security
 
