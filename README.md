@@ -79,6 +79,7 @@ List of my interests.
 - [Awesome-CloudOps-Automation](https://github.com/unskript/Awesome-CloudOps-Automation) - Cloud-ops automation runbooks that are ready to use. Build your own automations using the hundreds of drag and drop actions included in the repository. Built on Jupyter Notebooks, our automation platform jumpstarts your SRE RunBook creation. 😎 published by the unSkript community.
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Latest Papers and Datasets on Multimodal Large Language Models.
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
 ## Python
 
@@ -203,6 +204,8 @@ List of my interests.
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects".
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
+- [websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+- 
 
 ## Java
 
@@ -298,6 +301,7 @@ List of my interests.
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file.
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
 
 ## PHP
 
@@ -571,6 +575,7 @@ List of my interests.
 - [dataease](https://github.com/dataease/dataease) - 人人可用的开源数据可视化分析工具.
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) -  Fast Segment Anything.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 
 ## AI
 
@@ -665,6 +670,8 @@ List of my interests.
 - [trufflehog](https://github.com/trufflesecurity/trufflehog) -  Find and verify credentials.<trufflesecurity.com>
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑.
 - [rebindMultiA](https://github.com/Rhynorater/rebindMultiA) - rebindMultiA is a tool to perform a Multiple A Record rebind attack.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy.
 
 ## Development
 
@@ -722,7 +729,8 @@ List of my interests.
 - [xml2axml](https://github.com/codyi96/xml2axml) - 🤒 xml2axml & axml2xml
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
 ## Tools
 
@@ -808,6 +816,8 @@ List of my interests.
 - [design-system](https://github.com/hashicorp/design-system) - Helios Design System.
 - [git-lfs](https://github.com/git-lfs/git-lfs) -  Git extension for versioning large files. <git-lfs.com>
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral).
+- [code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page.
+- [glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 
 ## References
 
