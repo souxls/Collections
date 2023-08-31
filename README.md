@@ -205,7 +205,6 @@ List of my interests.
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- 
 
 ## Java
 
@@ -672,6 +671,7 @@ List of my interests.
 - [rebindMultiA](https://github.com/Rhynorater/rebindMultiA) - rebindMultiA is a tool to perform a Multiple A Record rebind attack.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy.
+- [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers.
 
 ## Development
 
