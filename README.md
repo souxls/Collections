@@ -916,6 +916,7 @@ List of my interests.
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) -  🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）. <oi-wiki.org>
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师.
 - [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 
 ## Interview
 
@@ -966,7 +967,6 @@ List of my interests.
 - [frp](https://github.com/fatedier/frp) -  A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react.
 - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web.
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》
 - [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
