@@ -80,6 +80,7 @@ List of my interests.
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Latest Papers and Datasets on Multimodal Large Language Models.
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
+- [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 
 ## Python
 
@@ -222,6 +223,7 @@ List of my interests.
 - [APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 - [COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture.
+- [openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework.
 
 ## Web frontend framework
 
@@ -301,6 +303,9 @@ List of my interests.
 - [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系.
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+- [yft-design](https://github.com/dromara/yft-design) - 基于Canvas的开源版"创客贴"， Vue3+TypeScript+Fabric.js+Pinia+Element-Plus, supporting the most commonly used element types such as text, images, shapes, lines, QR codes, and barcodes. Each element has high editable capabilities, thumbnail display, templates.
+- [astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
 
 ## PHP
 
@@ -404,6 +409,7 @@ List of my interests.
 - [kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes.
 - [kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes.
+- [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).
 
 ## Microservices
 
@@ -417,6 +423,7 @@ List of my interests.
 - [nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway.
 - [linkerd2](https://github.com/linkerd/linkerd2) -  Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x. <linkerd.io>
+- [flagr](https://github.com/openflagr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice.
 
 ## Serverless
 
@@ -484,6 +491,7 @@ List of my interests.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
 - [bbr](https://github.com/google/bbr) - TCP BBR
 - [kubeasz](https://github.com/easzlab/kubeasz) -  使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响. <github.com/easzlab/kubeasz>
+- [leantime](https://github.com/grafana/pyroscope) - Leantime is a strategic project management system for non-project managers.
   
 ## Monitor
 
@@ -515,6 +523,8 @@ List of my interests.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration.
 - [oncall](https://github.com/linkedin/oncall) - Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like <http://iris.claims>.
+- [beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services.
+- [pyroscope](https://github.com/grafana/pyroscope) = Continuous Profiling Platform. Debug performance issues down to a single line of code.
 
 ## APM
 
@@ -575,6 +585,7 @@ List of my interests.
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) -  Fast Segment Anything.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
+- [primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
 
 ## AI
 
@@ -623,6 +634,9 @@ List of my interests.
 - [GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播.
 - [facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer.
 - [codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models.
+- [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP.
+- [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓 .
 
 ## Security
 
@@ -672,6 +686,9 @@ List of my interests.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy.
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers.
+- [Depix](https://github.com/spipm/Depix) -  Recovers passwords from pixelized screenshots.
+- [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包软件ProxyPin，支持全平台系统，用flutter框架开发.
+- [PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
 
 ## Development
 
@@ -704,6 +721,10 @@ List of my interests.
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 - [simdjson](https://github.com/simdjson/simdjson) -  Parsing gigabytes of JSON per second
 - [restful-api-specification](https://github.com/godruoyi/restful-api-specification) - RESTful API Design Specification.
+- [doxygen](https://github.com/doxygen/doxygen) - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, and to some extent D. Doxygen also supports the hardware description language VHDL.
+- [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals.
+- [hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言.
+- [PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
 
 ## Reverse engineering
 
@@ -917,6 +938,9 @@ List of my interests.
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师.
 - [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [my-ebooks](https://github.com/aimingoo/my-ebooks) - 下载与收藏一些我已发布的电子书或编目过的文章.
+- [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) -Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers.
+- [golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
 
 ## Interview
 
@@ -949,6 +973,7 @@ List of my interests.
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
 - [web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 - [open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. <https://open-resume.com>
+- [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 
 ## Others
 
@@ -1020,3 +1045,10 @@ List of my interests.
 - [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files.
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [cli](https://github.com/cli/cli) -  GitHub’s official command line tool. <cli.github.com>
+- [SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱.
+- [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine.
+- [tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard.
+- [Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
+- [ToolsFx](https://github.com/Leon406/ToolsFx) - 基于kotlin+tornadoFx的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,大数运算,压缩,二维码功能,ctf等实用功能,支持插件
+- [VirtualXP](https://github.com/lrusso/VirtualXP) - Virtual Machine running in a Web browser.
+- [notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
