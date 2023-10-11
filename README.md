@@ -206,6 +206,7 @@ List of my interests.
 - [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+- [flameshow](https://github.com/laixintao/flameshow) - Flameshow is a terminal Flamegraph viewer.
 
 ## Java
 
@@ -1052,3 +1053,4 @@ List of my interests.
 - [ToolsFx](https://github.com/Leon406/ToolsFx) - 基于kotlin+tornadoFx的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,大数运算,压缩,二维码功能,ctf等实用功能,支持插件
 - [VirtualXP](https://github.com/lrusso/VirtualXP) - Virtual Machine running in a Web browser.
 - [notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+  
