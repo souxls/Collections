@@ -81,6 +81,9 @@ List of my interests.
 - [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 - [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
+- [awesometts-anki-addon](https://github.com/AwesomeTTS/awesometts-anki-addon) - AwesomeTTS text-to-speech add-on for Anki
+- [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+- [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 
 ## Python
 
@@ -133,6 +136,9 @@ List of my interests.
 - [ujrpc](https://github.com/unum-cloud/ujrpc) -  Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
 - [urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python.
 - [poetry](https://github.com/python-poetry/poetry) -  Python packaging and dependency management made easy. <python-poetry.org>
+- [openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+- [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 
 ## Go
 
@@ -207,6 +213,8 @@ List of my interests.
 - [authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps.
 - [websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [flameshow](https://github.com/laixintao/flameshow) - Flameshow is a terminal Flamegraph viewer.
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [go-orb](https://github.com/go-orb/go-orb) - A framework for distributed systems
 
 ## Java
 
@@ -225,6 +233,7 @@ List of my interests.
 - [GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 - [COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture.
 - [openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework.
+- [microprofile](https://github.com/eclipse/microprofile) - Repository for important documentation - the index to the project / community.
 
 ## Web frontend framework
 
@@ -307,6 +316,9 @@ List of my interests.
 - [yft-design](https://github.com/dromara/yft-design) - 基于Canvas的开源版"创客贴"， Vue3+TypeScript+Fabric.js+Pinia+Element-Plus, supporting the most commonly used element types such as text, images, shapes, lines, QR codes, and barcodes. Each element has high editable capabilities, thumbnail display, templates.
 - [astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
+- [nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 
 ## PHP
 
@@ -411,6 +423,14 @@ List of my interests.
 - [kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 - [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes.
 - [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments).
+- [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+- [trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container.
+- [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes.
 
 ## Microservices
 
@@ -493,6 +513,13 @@ List of my interests.
 - [bbr](https://github.com/google/bbr) - TCP BBR
 - [kubeasz](https://github.com/easzlab/kubeasz) -  使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响. <github.com/easzlab/kubeasz>
 - [leantime](https://github.com/grafana/pyroscope) - Leantime is a strategic project management system for non-project managers.
+- [Taiga](https://github.com/kaleidos-ventures/taiga-back) - Taiga is a project management platform for startups and agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.
+- [chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）.
+- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code.
+- [jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services.
+- [locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨.
+- [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence… 
   
 ## Monitor
 
@@ -541,6 +568,7 @@ List of my interests.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [datadog-agent](https://github.com/DataDog/datadog-agent) -  Datadog Agent
 - [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector) -  OpenTelemetry Collector
+- [sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 
 ## LowCode
 
@@ -552,6 +580,7 @@ List of my interests.
 - [amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
 - [SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly.
+- [lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 
 ## Big Data
 
@@ -638,6 +667,19 @@ List of my interests.
 - [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP.
 - [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓 .
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
+- [codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
+- [Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China
+- [Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation me… 
+- [Yi](https://github.com/01-ai/Yi) -A series of large language models trained from scratch by developers @01-ai
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge.
+- [GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation.
+- [OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person.
+- [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
 ## Security
 
@@ -690,6 +732,9 @@ List of my interests.
 - [Depix](https://github.com/spipm/Depix) -  Recovers passwords from pixelized screenshots.
 - [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包软件ProxyPin，支持全平台系统，用flutter框架开发.
 - [PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+- [PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [Sirius](https://github.com/SiriusScan/Sirius) - Sirius is the first truly open-source general purpose vulnerability scanner.
 
 ## Development
 
@@ -726,6 +771,8 @@ List of my interests.
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals.
 - [hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言.
 - [PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+- [revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API.
+- [knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution.
 
 ## Reverse engineering
 
@@ -840,6 +887,8 @@ List of my interests.
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral).
 - [code-gpt-docs](https://github.com/davila7/code-gpt-docs) - Docusaurus page.
 - [glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers. 
+- [inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete.
 
 ## References
 
@@ -942,6 +991,10 @@ List of my interests.
 - [my-ebooks](https://github.com/aimingoo/my-ebooks) - 下载与收藏一些我已发布的电子书或编目过的文章.
 - [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) -Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers.
 - [golang](https://github.com/aceld/golang) - 《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。
+- [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+- [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去
+- [LinuxOS_Course](https://github.com/youngyt/LinuxOS_Course) - 《Linux操作系统》课程资料
+- [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 
 ## Interview
 
@@ -975,6 +1028,7 @@ List of my interests.
 - [web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 - [open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. <https://open-resume.com>
 - [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. 
 
 ## Others
 
@@ -1053,4 +1107,13 @@ List of my interests.
 - [ToolsFx](https://github.com/Leon406/ToolsFx) - 基于kotlin+tornadoFx的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,大数运算,压缩,二维码功能,ctf等实用功能,支持插件
 - [VirtualXP](https://github.com/lrusso/VirtualXP) - Virtual Machine running in a Web browser.
 - [notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-  
+- [Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc. 
+- [Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+- [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
+- [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
+- [im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统
+- [threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+- [PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your p… 
