@@ -694,6 +694,7 @@ List of my interests.
 - [WeiyingCloud](https://github.com/yz-intelligence/WeiyingCloud) - 维鹰云智能事件平台，告警事件统一接收、降噪、处置. 
 - [PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) - Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等. 
 - [retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes. 
+- [grafana-llm-app](https://github.com/grafana/grafana-llm-app) - Plugin to easily allow LLM based extensions to grafana. 
   
 ## APM
 
