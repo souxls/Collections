@@ -632,7 +632,6 @@ List of my interests.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence… 
 - [chaosblade-box](https://github.com/chaosblade-io/chaosblade-box) - chaos-platform
 - [cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources | 运维的权威数据库
-- [n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets.
