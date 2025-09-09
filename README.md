@@ -263,7 +263,8 @@ List of my interests.
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.. 
 - [go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.. 
 - [nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.. 
-
+- [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
+  
 ## Java
 
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -400,6 +401,7 @@ List of my interests.
 - [pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.. 
 - [saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate. 
 - [yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。. 
+- [beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 
 ## PHP
 
@@ -1063,6 +1065,7 @@ List of my interests.
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go. 
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands. 
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq. 
+- [sshm](https://github.com/Gu1llaum-3/sshm) - SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable.
 
 ## References
 
@@ -1332,7 +1335,7 @@ List of my interests.
 - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 🍰 Desktop utility to download images/videos/music/text from various websites, and more. 
 - [billd-live](https://github.com/galaxy-s10/billd-live) - 基于Vue3 + WebRTC + Nodejs + SRS搭建的直播间. 
 - [register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.. 
-  - [LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源. 
+- [LunaTV](https://github.com/MoonTechLab/LunaTV) - MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源. 
 - [hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software. 
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative. 
 - [Perth](https://github.com/resemble-ai/Perth) - Open Audio Watermarking Tool. 
