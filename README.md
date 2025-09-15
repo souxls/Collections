@@ -264,7 +264,8 @@ List of my interests.
 - [go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.. 
 - [nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.. 
 - [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
-  
+- [recur](https://github.com/dbohdan/recur) - Retry a command with exponential backoff and jitter (+ Starlark expressions)
+
 ## Java
 
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -539,6 +540,7 @@ List of my interests.
 - [vArmor](https://github.com/bytedance/vArmor) - vArmor is a cloud native container sandbox system based on AppArmor/BPF/Seccomp. It also includes multiple built-in protection rules that are ready to use out of the box.. 
 - [bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images. 
 - [windows](https://github.com/dockur/windows) - Windows inside a Docker container.. 
+- [vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 
 ## Microservices
 
@@ -1376,3 +1378,6 @@ List of my interests.
 - [social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android. 
 - [linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.. 
 - [supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜. 
+- [OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) - Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改
+- [MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
+- [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
