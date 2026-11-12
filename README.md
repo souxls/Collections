@@ -2,9 +2,9 @@
 
 List of my interests.
 
-Related: AI / LLM collections live in [llm-collections](https://github.com/souxls/llm-collections).
-
-Sections are domain-first: domain-specific projects (including `awesome-*` lists) live in their domain section, while language sections keep general-purpose ecosystems only.
+> **Related**: AI / LLM collections live in [llm-collections](https://github.com/souxls/llm-collections).
+>
+> **Placement**: domain-first — domain-specific projects (including `awesome-*` lists) stay in their domain section; language sections keep general-purpose ecosystems only.
 
 - [GitHub Collection List](#github-collection-list)
   - [Awesome](#awesome)
