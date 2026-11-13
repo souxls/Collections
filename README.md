@@ -944,7 +944,6 @@ List of my interests.
 - [Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook <https://micro8.gitbook.io/micro8/>.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles
@@ -970,7 +969,6 @@ List of my interests.
 - [trufflehog](https://github.com/trufflesecurity/trufflehog) -  Find and verify credentials.<trufflesecurity.com>
 - [gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑.
 - [rebindMultiA](https://github.com/Rhynorater/rebindMultiA) - rebindMultiA is a tool to perform a Multiple A Record rebind attack.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy.
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers.
 - [depixelization_poc](https://github.com/spipm/depixelization_poc) -  Recovers passwords from pixelized screenshots.
@@ -1124,6 +1122,9 @@ List of my interests.
 - [medusa](https://github.com/Ch0pin/medusa) - Mobile Edge-Dynamic Unified Security Analysis.
 - [FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案.
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android.
+- [ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices.
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device.
@@ -1279,7 +1280,6 @@ List of my interests.
 - [Trilium](https://github.com/triliumnext/trilium) - Build your personal knowledge base with Trilium Notes
 - [sysdig](https://github.com/draios/sysdig) - Sysdig is a tool that lets you monitor and analyze the behavior of your system. It is a collection of tools that can be used to monitor and analyze the behavior of your system.
 - [q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
-- [ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
 - [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [tabby](https://github.com/Eugeny/tabby) -  A terminal for a more modern age
