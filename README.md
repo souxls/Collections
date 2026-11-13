@@ -960,7 +960,6 @@ List of my interests.
 - [xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [freki](https://github.com/cristianzsh/freki) - 🐺 Malware analysis platform
 - [sec-dev-in-action-src](https://github.com/netxfly/sec-dev-in-action-src) - 《白帽子安全开发实战》配套代码
-- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [clamav](https://github.com/Cisco-Talos/clamav) -  ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
@@ -984,7 +983,6 @@ List of my interests.
 - [redteam-tips](https://github.com/we1h0/redteam-tips) - 关于红队方面的学习资料
 - [webshell-venom](https://github.com/yzddmr6/webshell-venom) - 免杀webshell无限生成工具
 - [pentest_study](https://github.com/l3m0n/pentest_study) - 从零开始内网渗透学习
-- [KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetN…
 - [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms漏洞利用工具，爆破工具、内网横向及免杀、社工钓鱼以及应急响应等资料。
 - [Ladon](https://github.com/k8gege/Ladon) - Ladon大型内网渗透工具，可PowerShell模块化、可CS插件化、可内存加载，无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。Ladon 12.2内置262个功能,网络资产探测模块32个通过多种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchange\mssql\FTP\RDP)以及方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等信息，高危漏洞检测16个含MS17010、Zimbra、Exchange.
@@ -1001,7 +999,6 @@ List of my interests.
 - [Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages.
 - [vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
-- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android.
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南.
 - [bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF).
@@ -1097,6 +1094,7 @@ List of my interests.
 - [SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+- [KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [xml2axml](https://github.com/codyi96/xml2axml) - 🤒 xml2axml & axml2xml
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
@@ -1118,12 +1116,14 @@ List of my interests.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework.
 - [xml2axml](https://github.com/hzw1199/xml2axml) - encode xml to axml AND decode axml to xml--Hack Android Manifest easily.
 - [PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications.
 - [APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 - [drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 - [medusa](https://github.com/Ch0pin/medusa) - Mobile Edge-Dynamic Unified Security Analysis.
 - [FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案.
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android.
 - [ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices.
 - [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device.
