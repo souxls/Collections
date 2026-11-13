@@ -908,6 +908,18 @@ List of my interests.
 - [whale-quant](https://github.com/datawhalechina/whale-quant) - 本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。
 - [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) - 小型金融知识图谱构建流程.
 - [ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust.
+- [yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API.
+- [backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰 Backtest trading strategies in Python.
+- [quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python.
+- [QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现.
+- [hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots.
+- [jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python.
+- [bbgo](https://github.com/c9s/bbgo) - The modern cryptocurrency trading bot framework written in Go.
+- [alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API.
+- [a-stock-data](https://github.com/simonlin1212/a-stock-data) - A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·87 endpoints·34 sources.
+- [Financial-API](https://github.com/Hithink-Tech-Org/Financial-API) - 同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data service providing real-time and historical stock market data, financial statements, indices, sectors and limit-up data for AI agents, quantitative research and application development.
+- [skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn.
+- [spectre](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester.
 
 ## Life & Finance
 
