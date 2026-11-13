@@ -1118,6 +1118,23 @@ List of my interests.
 - [reFlutter](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework.
 - [xml2axml](https://github.com/hzw1199/xml2axml) - encode xml to axml AND decode axml to xml--Hack Android Manifest easily.
 - [PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+- [androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications.
+- [APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
+- [drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
+- [RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
+- [medusa](https://github.com/Ch0pin/medusa) - Mobile Edge-Dynamic Unified Security Analysis.
+- [FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案.
+- [ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices.
+- [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device.
+- [ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife.
+- [grapefruit](https://github.com/ChiChou/grapefruit) - Open-source mobile security testing suite for iOS and Android. Previously Passionfruit.
+- [Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1).
+- [blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool.
+- [frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida instrumentation scripts to reverse engineer mobile apps and more.
+- [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
+- [ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser.
+- [mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 
 ## Game
 
